@@ -7,6 +7,13 @@
     ]
   },
   {
+    "ShortName": "discord.trophy",
+    "ItemId": 1494014226,
+    "Components": [
+      "ItemModEntity"
+    ]
+  },
+  {
     "ShortName": "fogmachine",
     "ItemId": -1973785141,
     "Components": [
@@ -478,6 +485,20 @@
     ]
   },
   {
+    "ShortName": "gates.external.high.adobe",
+    "ItemId": -401905610,
+    "Components": [
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "gates.external.high.frontier",
+    "ItemId": 2137338174,
+    "Components": [
+      "ItemModEntity"
+    ]
+  },
+  {
     "ShortName": "gates.external.high.stone",
     "ItemId": -691113464,
     "Components": [
@@ -501,6 +522,20 @@
   {
     "ShortName": "legacy.shelter.wood",
     "ItemId": 607400343,
+    "Components": [
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "wall.external.high.adobe",
+    "ItemId": 756890702,
+    "Components": [
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "wall.external.high.frontier",
+    "ItemId": 63265850,
     "Components": [
       "ItemModEntity"
     ]
@@ -3980,6 +4015,20 @@
     ]
   },
   {
+    "ShortName": "rustige_egg_g",
+    "ItemId": -173268127,
+    "Components": [
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "horse.costume",
+    "ItemId": 1420547167,
+    "Components": [
+      "ItemModWearable"
+    ]
+  },
+  {
     "ShortName": "attire.nesthat",
     "ItemId": 1081315464,
     "Components": [
@@ -6967,6 +7016,13 @@
   {
     "ShortName": "knife.combat",
     "ItemId": 2040726127,
+    "Components": [
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "sunken.knife",
+    "ItemId": 789333045,
     "Components": [
       "ItemModEntity"
     ]

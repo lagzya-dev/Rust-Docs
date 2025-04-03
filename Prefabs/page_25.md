@@ -1,6 +1,64 @@
 # Prefabs (Page 25 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `submarine_greeble_150x200_04_outercorner` | `assets/content/structures/underwater_labs/underwater_lab_corridor_greeble/submarine_greeble_150x200_04_outercorner.prefab` | 3773051012 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `keycard.entity` | `assets/prefabs/tools/keycard/keycard.entity.prefab` | 3773357817 | `UnityEngine.Transform`<br>`Keycard`<br>`SwapKeycard` |
+| `ladder.wooden.wall.item` | `assets/prefabs/building/ladder.wall.wood/ladder.wooden.wall.item.prefab` | 3773474408 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>`ItemModEntity` |
+| `jar_cluster_b` | `assets/content/props/small_junk/jar_cluster_b.prefab` | 3773501251 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `beehive.deployed` | `assets/prefabs/deployable/beehive/beehive.deployed.prefab` | 3773792636 | `UnityEngine.Transform`<br>`Beehive`<br>`GroundWatch`<br>`DestroyOnGroundMissing`<br>`EntityFlag_Toggle`<br>... |
+| `underwaterlab_dwelling_300_edge_deep_b` | `assets/prefabs/misc/underwaterlabsdwelling/underwaterlab_dwelling_300_edge_deep_b.prefab` | 3773945132 | `UnityEngine.Transform`<br>`NPCDwelling` |
+| `train_tunnel_double_transition_a_36m_mirr` | `assets/content/structures/train_tunnels/train_tunnel_double_transition_a_36m_mirr.prefab` | 3774200237 | `UnityEngine.Transform`<br>`TrainTrackSpline` |
+| `metal-ore` | `assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab` | 3774647716 | `UnityEngine.Transform`<br>`Spawnable`<br>`OreResourceEntity`<br>`ResourceDispenser`<br>`UnityEngine.AI.NavMeshObstacle`<br>... |
+| `sedan_a_red` | `assets/content/vehicles/sedan_a/sedan_a_red.prefab` | 3774700171 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `cover_panel_decal_e` | `assets/content/mesh decals/metal_details/cover_panel_decal_e.prefab` | 3775558681 | `UnityEngine.Transform` |
+| `ch47marker` | `assets/prefabs/tools/map/ch47marker.prefab` | 3775898198 | `UnityEngine.Transform`<br>`MapMarkerCH47` |
+| `innertube.worldmodel` | `assets/prefabs/misc/summer_dlc/inner_tube/innertube.worldmodel.prefab` | 3776110678 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
+| `wall.gingerbread.corner.r` | `assets/prefabs/building core/wall/wall.gingerbread.corner.r.prefab` | 3776243526 | `UnityEngine.Transform`<br>`UnityEngine.CapsuleCollider` |
+| `gates.external.high.adobe.item` | `assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.item.prefab` | 3776427397 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>`ItemModEntity` |
+| `throw` | `assets/prefabs/tools/lumberjack_tools/effects_stone/effects/throw.prefab` | 3777399288 | `UnityEngine.Transform`<br>`ScreenBounce`<br>`ScreenFov`<br>`ScreenRotate`<br>`EffectAudioPerspectiveSwitcher` |
+| `window_frame_b` | `assets/content/structures/building_features/window_frames/window_frame_b.prefab` | 3777452171 | `UnityEngine.Transform` |
+| `menuui.help.content` | `assets/content/ui/menuui/help/menuui.help.content.prefab` | 3778043884 | `UnityEngine.RectTransform`<br>`MenuHelpWidget` |
+| `underwaterlab_dwelling_300_corner_e` | `assets/prefabs/misc/underwaterlabsdwelling/underwaterlab_dwelling_300_corner_e.prefab` | 3778415973 | `UnityEngine.Transform`<br>`NPCDwelling` |
+| `weaponrack_single1.item` | `assets/prefabs/deployable/weaponracks/weaponrack_single1.item.prefab` | 3778463030 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>`ItemModEntity` |
+| `module_1200x1800_2way` | `assets/bundled/prefabs/autospawn/underwater-lab-segment/module_1200x1800_2way.prefab` | 3778582735 | `UnityEngine.Transform`<br>`DungeonBaseLink` |
+| `ferry_ramp_flap_b` | `assets/content/props/ferry_ramp_flap/ferry_ramp_flap_b.prefab` | 3778735817 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
+| `block.stair.ushape.wood` | `assets/prefabs/building core/stairs.u/block.stair.ushape.wood.prefab` | 3779627137 | `UnityEngine.Transform`<br>`ConstructionSkin`<br>`UnityEngine.MeshCollider` |
+| `cooling_tower_core` | `assets/content/structures/industrial_structures/cooling_tower_core.prefab` | 3779633688 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `decal_bullet_glass2` | `assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass2.prefab` | 3780454627 | `UnityEngine.Transform`<br>`QuadDecal` |
+| `antiradpills` | `assets/content/props/small_junk/antiradpills.prefab` | 3780612381 | `UnityEngine.Transform` |
+| `float1` | `assets/content/props/boat town props/float1.prefab` | 3780640370 | `UnityEngine.Transform`<br>`UnityEngine.CapsuleCollider` |
+| `cube_tiled_gravel_01` | `assets/bundled/prefabs/modding/cubes/tiled/cube_tiled_gravel_01.prefab` | 3780784933 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
+| `desk_d.static` | `assets/bundled/prefabs/static/desk_d.static.prefab` | 3780996193 | `UnityEngine.Transform`<br>`BaseEntity`<br>`UnityEngine.MeshCollider` |
+| `halloween-metal-collectable` | `assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-metal-collectable.prefab` | 3781241805 | `UnityEngine.Transform`<br>`CollectibleEntity`<br>`Spawnable` |
+| `nuclear_silo_room_e` | `assets/content/structures/nuclear_missile_silo/nuclear_silo_room_e.prefab` | 3781471906 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `tap` | `assets/prefabs/weapons/salvaged_icepick/effects/tap.prefab` | 3781473583 | `UnityEngine.Transform`<br>`EffectAudioPerspectiveSwitcher` |
+| `infirmary` | `assets/content/structures/military_tunnels_signage/infirmary.prefab` | 3781756833 | `UnityEngine.Transform` |
+| `santa_hat` | `assets/prefabs/misc/xmas/staticdecor/santa_hat.prefab` | 3781937541 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `hat.boonie.item` | `assets/prefabs/clothes/hat.boonie/hat.boonie.item.prefab` | 3782286272 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModWearable`<br>`ItemBlueprint` |
+| `letter_s` | `assets/content/structures/military_tunnels_signage/letter_s.prefab` | 3782502415 | `UnityEngine.Transform` |
+| `roadsign4static` | `assets/content/props/roadsigns/roadsign4static.prefab` | 3782902427 | `UnityEngine.Transform`<br>`UnityEngine.CapsuleCollider`<br>`UnityEngine.BoxCollider` |
+| `desert_dwelling_single_d` | `assets/prefabs/misc/desertbasedwelling/desert_dwelling_single_d.prefab` | 3783075070 | `UnityEngine.Transform`<br>`NPCDwelling` |
+| `roof.gingerbread.right.line` | `assets/prefabs/building core/roof/roof.gingerbread.right.line.prefab` | 3783121544 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `wooden_building_f_shop` | `assets/content/structures/wooden_buildings/wooden_building_f_shop.prefab` | 3783174568 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `burlap_pants_worldmodel` | `assets/prefabs/clothes/pants.burlap/burlap_pants_worldmodel.prefab` | 3783548062 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
+| `camera.worldmodel` | `assets/prefabs/tools/camera/camera.worldmodel.prefab` | 3783700548 | `UnityEngine.Transform`<br>`WorldModel` |
+| `lootallbutton` | `assets/bundled/prefabs/ui/oven/lootallbutton.prefab` | 3783792209 | `UnityEngine.RectTransform`<br>`LootAllButton` |
+| `gameui.clan.invitation` | `assets/content/ui/gameui/clan/gameui.clan.invitation.prefab` | 3784305911 | `UnityEngine.RectTransform`<br>`UIClanInvitation` |
+| `swimwear_01_legs_gradient` | `assets/prefabs/misc/summer_dlc/swimwear_01/swimwear_01_legs_gradient.prefab` | 3784935554 | `UnityEngine.Transform`<br>`Wearable`<br>`PlayerModelHairCap` |
+| `flamethrowerflamefx-v2` | `assets/prefabs/weapons/flamethrower/effects/flamethrowerflamefx-v2.prefab` | 3784944717 | `UnityEngine.Transform` |
+| `breeze_block_b` | `assets/content/props/rubble_piles/breeze_block_b.prefab` | 3785365907 | `UnityEngine.Transform` |
+| `lightupframe.medium.item` | `assets/prefabs/misc/mirror/lightupframe.medium.item.prefab` | 3785684310 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModEntity`<br>`ItemBlueprint`<br>`ItemModDeployable` |
+| `concrete_hatchet.worldmodel` | `assets/prefabs/tools/lumberjack_tools/concrete_hatchet.worldmodel.prefab` | 3785833103 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo`<br>`WorldModelRackMountConfig` |
+| `foundation.steps.container` | `assets/prefabs/building core/foundation.steps/foundation.steps.container.prefab` | 3785900109 | `UnityEngine.Transform`<br>`ConstructionSkin_CustomDetail` |
+| `potato.skin.0.seed` | `assets/prefabs/plants/potato/potato.skin.0.seed.prefab` | 3786256485 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
+| `floor.frame.twig` | `assets/prefabs/building core/floor.frame/floor.frame.twig.prefab` | 3786390809 | `UnityEngine.Transform`<br>`ConstructionSkin`<br>`UnityEngine.MeshCollider`<br>`ColliderInfo` |
+| `cave_puzzle_c` | `assets/bundled/prefabs/caves/cave_puzzle_c.prefab` | 3787056981 | `UnityEngine.Transform` |
+| `dockwall_overhang_corner_out` | `assets/content/structures/harbor/dock_walls/dockwall_overhang_corner_out.prefab` | 3787408013 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `foundation.triangle.adobe` | `assets/prefabs/building core/foundation.triangle/foundation.triangle.adobe.prefab` | 3787746031 | `UnityEngine.Transform`<br>`ConstructionSkin`<br>`UnityEngine.MeshCollider` |
+| `corrugated_sheet_smalldamaged_a` | `assets/content/props/corrugated_sheets/corrugated_sheet_smalldamaged_a.prefab` | 3787992013 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `smartalarm` | `assets/prefabs/deployable/playerioents/app/smartalarm/smartalarm.prefab` | 3788087038 | `UnityEngine.Transform`<br>`SmartAlarm`<br>`GroundWatch`<br>`DestroyOnGroundMissing`<br>`UnityEngine.BoxCollider` |
+| `turnstile_b` | `assets/content/props/turnstile/turnstile_b.prefab` | 3788144878 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `itempreview_medievalpack_knighthelmet` | `assets/content/ui/menuui/itemstore/packs/medieval pack/_previews/itempreview_medievalpack_knighthelmet.prefab` | 3788353423 | `UnityEngine.Transform` |
 | `capturepoint` | `assets/prefabs/gamemodes/objects/capturepoint/capturepoint.prefab` | 3788504645 | `UnityEngine.Transform`<br>`GameModeCapturePoint`<br>`Model` |
 | `throw` | `assets/prefabs/weapons/stone pickaxe/effects/throw.prefab` | 3788628401 | `UnityEngine.Transform`<br>`ScreenBounce`<br>`ScreenFov`<br>`ScreenRotate`<br>`EffectAudioPerspectiveSwitcher` |
 | `strike` | `assets/prefabs/weapons/rock/effects/strike.prefab` | 3788663834 | `UnityEngine.Transform`<br>`EffectAudioPerspectiveSwitcher` |
@@ -10,7 +68,6 @@
 | `bunker_entrance` | `assets/prefabs/missions/portal/bunker_entrance.prefab` | 3789623955 | `UnityEngine.Transform`<br>`BunkerEntrance`<br>`Model`<br>`Rust.Ai.AiLocationManager`<br>`AIInformationZone` |
 | `sofa.item` | `assets/prefabs/deployable/sofa/sofa.item.prefab` | 3790146395 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>`ItemModEntity` |
 | `nuclear_silo_chute_vent_d` | `assets/content/structures/nuclear_missile_silo/nuclear_silo_chute_vent_d.prefab` | 3791290190 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `itempreview_frontier_huntingtrophy` | `assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_huntingtrophy.prefab` | 3791705990 | `UnityEngine.Transform` |
 | `train_tunnel_double_straight_a` | `assets/content/structures/train_tunnels/prefabs/train_tunnel_double_straight_a.prefab` | 3792771135 | `UnityEngine.Transform` |
 | `concrete_debris_decal_b` | `assets/content/mesh decals/concrete_debris/concrete_debris_decal_b.prefab` | 3792904905 | `UnityEngine.Transform` |
 | `apple.item` | `assets/prefabs/food/apple/apple.item.prefab` | 3793725166 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModConsume`<br>`ItemModConsumable`<br>`ItemModMenuOption`<br>... |
@@ -214,6 +271,7 @@
 | `blueprintbase` | `assets/prefabs/misc/blueprintbase/blueprintbase.prefab` | 3857977621 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModMenuOption`<br>`ItemModStudyBlueprint` |
 | `frontiermirror.standing.item` | `assets/prefabs/misc/mirror/frontiermirror.standing.item.prefab` | 3858157453 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModEntity`<br>`ItemBlueprint`<br>`ItemModDeployable` |
 | `advendcalendar.deployed` | `assets/prefabs/misc/xmas/advent_calendar/advendcalendar.deployed.prefab` | 3858313461 | `UnityEngine.Transform`<br>`AdventCalendar`<br>`UnityEngine.MeshCollider`<br>`Model`<br>`GroundWatch`<br>... |
+| `horse.costume.female` | `assets/prefabs/misc/easter/horsecostume/horse.costume.female.prefab` | 3858380614 | `UnityEngine.Transform`<br>`Wearable`<br>`Facepunch.Skeleton` |
 | `piano.deployed.static` | `assets/bundled/prefabs/static/piano.deployed.static.prefab` | 3858860623 | `UnityEngine.Transform`<br>`StaticInstrument`<br>`Model`<br>`InstrumentKeyController`<br>`InstrumentIKController` |
 | `food_cache_003` | `assets/prefabs/misc/food cache/food_cache_003.prefab` | 3858903386 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider`<br>`Spawnable`<br>`LootContainer` |
 | `floor.stone` | `assets/prefabs/building core/floor/floor.stone.prefab` | 3859228539 | `UnityEngine.Transform`<br>`ConstructionSkin`<br>`UnityEngine.MeshCollider` |
@@ -280,7 +338,6 @@
 | `swamp_c_scene` | `assets/bundled/prefabs/remapped/monument/swamp/swamp_c_scene.prefab` | 3877744120 | `UnityEngine.Transform`<br>`ScenePrefab` |
 | `slash_rock_01` | `assets/bundled/prefabs/fx/impacts/slash/rock/slash_rock_01.prefab` | 3878298302 | `UnityEngine.Transform` |
 | `roof.triangle.stone.up.left.line` | `assets/prefabs/building core/roof.triangle/roof.triangle.stone.up.left.line.prefab` | 3878617965 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `itempreview_frontier_triangleplanter` | `assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_triangleplanter.prefab` | 3878632449 | `UnityEngine.Transform` |
 | `tshirt_basic_worldmodel` | `assets/prefabs/clothes/tshirt/tshirt_basic_worldmodel.prefab` | 3878769577 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
 | `submarine_greeble_150x100_01` | `assets/content/structures/underwater_labs/underwater_lab_corridor_greeble/submarine_greeble_150x100_01.prefab` | 3879338427 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `desert_dwelling_single_s` | `assets/prefabs/misc/desertbasedwelling/desert_dwelling_single_s.prefab` | 3879469933 | `UnityEngine.Transform`<br>`NPCDwelling` |
@@ -389,6 +446,7 @@
 | `radiation_cube_med` | `assets/bundled/prefabs/modding/radiation/radiation_cube_med.prefab` | 3909183346 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`TriggerRadiation` |
 | `timeline` | `assets/plugins/rust.ui/controls/timeline.prefab` | 3910204648 | `UnityEngine.RectTransform` |
 | `wooden_building_b` | `assets/content/structures/wooden_buildings/wooden_building_b.prefab` | 3910462672 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `throw` | `assets/prefabs/weapons/knife/skins/sunkenknife/effects/throw.prefab` | 3910720626 | `UnityEngine.Transform`<br>`ScreenBounce`<br>`ScreenFov`<br>`ScreenRotate` |
 | `shovel.worldmodel` | `assets/prefabs/tools/shovel/shovel.worldmodel.prefab` | 3911560688 | `UnityEngine.Transform`<br>`WorldModel`<br>`ColliderInfo`<br>`WorldModelRackMountConfig` |
 | `desk_c.static` | `assets/bundled/prefabs/static/desk_c.static.prefab` | 3912035642 | `UnityEngine.Transform`<br>`BaseEntity`<br>`UnityEngine.MeshCollider` |
 | `pipeline_100x600` | `assets/content/structures/pipelines/pipeline_100x600.prefab` | 3912140498 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
@@ -443,64 +501,6 @@
 | `w_eject_pistol_shells` | `assets/prefabs/weapons/revolver/effects/w_eject_pistol_shells.prefab` | 3925799002 | `UnityEngine.Transform`<br>`EffectParentToWeaponBone` |
 | `responddeath` | `assets/prefabs/npc/scientist/sound/responddeath.prefab` | 3926033157 | `UnityEngine.Transform`<br>`MusicChangeIntensity` |
 | `backlit_sign_no_entry_green` | `assets/content/props/signs_backlit/backlit_sign_no_entry_green.prefab` | 3926248737 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
-| `halloween-bone-collectable` | `assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-bone-collectable.prefab` | 3927243187 | `UnityEngine.Transform`<br>`CollectibleEntity`<br>`Spawnable` |
-| `crystal_sparkle` | `assets/content/nature/crystals/crystal_sparkle.prefab` | 3927961117 | `UnityEngine.Transform` |
-| `missionprovider_outpost_a` | `assets/prefabs/npc/bandit/missionproviders/missionprovider_outpost_a.prefab` | 3928572443 | `UnityEngine.Transform`<br>`NPCMissionProvider`<br>`PlayerMetabolism`<br>`PlayerInventory`<br>`PlayerEyes`<br>... |
-| `crew_cabinet_50x50` | `assets/content/props/cabin_crew_furniture/crew_cabinet_50x50.prefab` | 3928687489 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `bed_deployed` | `assets/prefabs/deployable/bed/bed_deployed.prefab` | 3928883189 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`GroundWatch`<br>`DestroyOnGroundMissing`<br>`SleepingBag`<br>... |
-| `mushroom_02_c_lod_01` | `assets/content/nature/plants/mushroom/prefabs/mushroom_02_c_lod_01.prefab` | 3928909590 | `UnityEngine.Transform` |
-| `floor.frontier_variant_c` | `assets/prefabs/building core/floor/floor.frontier_variant_c.prefab` | 3929073092 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `foundation.toptier` | `assets/prefabs/building core/foundation/foundation.toptier.prefab` | 3929334978 | `UnityEngine.Transform`<br>`ConstructionSkin`<br>`UnityEngine.BoxCollider` |
-| `woodarmourplate` | `assets/prefabs/tools/armourplating/model/woodarmourplate.prefab` | 3929668000 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
-| `photoframe.large` | `assets/prefabs/misc/summer_dlc/photoframe/photoframe.large.prefab` | 3931119293 | `UnityEngine.Transform`<br>`PhotoFrame`<br>`DestroyOnGroundMissing`<br>`GroundWatch`<br>`UnityEngine.BoxCollider` |
-| `research-fail` | `assets/prefabs/deployable/research table/effects/research-fail.prefab` | 3931488077 | `UnityEngine.Transform` |
-| `cupboard.tool.shockbyte.deployed` | `assets/prefabs/deployable/tool cupboard/shockbyte/cupboard.tool.shockbyte.deployed.prefab` | 3932172323 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`BuildingPrivlidge`<br>`GroundWatch`<br>`DestroyOnGroundMissing`<br>... |
-| `hopper.deployed` | `assets/prefabs/deployable/hopper/hopper.deployed.prefab` | 3932476457 | `UnityEngine.Transform`<br>`Hopper`<br>`UnityEngine.BoxCollider`<br>`EntityFlag_Toggle` |
-| `foundation.steps.frontier` | `assets/prefabs/building core/foundation.steps/foundation.steps.frontier.prefab` | 3934259148 | `UnityEngine.Transform`<br>`ConstructionSkin`<br>`UnityEngine.MeshCollider` |
-| `harbor-container-door-open-start` | `assets/content/structures/harbor/cranes/sound/harbor-container-door-open-start.prefab` | 3934521941 | `UnityEngine.Transform` |
-| `corridor_stairwell_top` | `assets/content/structures/train_tunnels/corridor_prefabs/corridor_stairwell_top.prefab` | 3934661214 | `UnityEngine.Transform` |
-| `wall.gingerbread.full` | `assets/prefabs/building core/wall/wall.gingerbread.full.prefab` | 3934837116 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `building_planner.item` | `assets/prefabs/tools/planner/building_planner.item.prefab` | 3935042626 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModEntity`<br>`ItemBlueprint` |
-| `perimeter_wall_gradient_150` | `assets/content/structures/perimeter_walls/perimeter_wall_gradient_150.prefab` | 3935197280 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `eject_shellpluslink` | `assets/prefabs/weapons/minigun/effects/eject_shellpluslink.prefab` | 3936200167 | `UnityEngine.Transform`<br>`EffectParentToWeaponBone` |
-| `menuui.itemstore.hazmatskin.nomad` | `assets/content/ui/menuui/itemstore/hazmat skins/nomad/menuui.itemstore.hazmatskin.nomad.prefab` | 3938459714 | `UnityEngine.RectTransform`<br>`ItemStorePack`<br>`MenuBackgroundOverride`<br>`UIEscapeCapture` |
-| `mine_tnl_corner_b` | `assets/content/structures/timber_mine/mine_tnl_corner_b.prefab` | 3938549881 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `insert_shells` | `assets/prefabs/weapons/python/effects/insert_shells.prefab` | 3938924844 | `UnityEngine.Transform`<br>`EffectAudioPerspectiveSwitcher` |
-| `itempreview_medievalpack_sheetmetaldoubledoor` | `assets/content/ui/menuui/itemstore/packs/medieval pack/_previews/itempreview_medievalpack_sheetmetaldoubledoor.prefab` | 3938969403 | `UnityEngine.Transform` |
-| `lootpanel.photoframe` | `assets/bundled/prefabs/ui/lootpanels/lootpanel.photoframe.prefab` | 3938990288 | `UnityEngine.RectTransform`<br>`LootPanel`<br>`ContainerSourceLoot` |
-| `icicles_300x150_a` | `assets/prefabs/misc/xmas/staticdecor/icicles_300x150_a.prefab` | 3939160800 | `UnityEngine.Transform` |
-| `goldmirror.medium` | `assets/prefabs/misc/mirror/goldmirror.medium.prefab` | 3939513589 | `UnityEngine.Transform`<br>`ReflectionPlane`<br>`DestroyOnGroundMissing`<br>`GroundWatch`<br>`UnityEngine.BoxCollider` |
-| `halloweenportalentry` | `assets/prefabs/missions/portal/halloweenportalentry.prefab` | 3939551954 | `UnityEngine.Transform`<br>`HalloweenDungeon`<br>`UnityEngine.BoxCollider`<br>`Spawnable` |
-| `floor.frame.stone` | `assets/prefabs/building core/floor.frame/floor.frame.stone.prefab` | 3939798636 | `UnityEngine.Transform`<br>`ConstructionSkin`<br>`UnityEngine.MeshCollider`<br>`ColliderInfo` |
-| `glass_cracked_4` | `assets/bundled/prefabs/modding/glass/glass_cracked_4.prefab` | 3939872005 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
-| `rock.entity` | `assets/prefabs/weapons/rock/rock.entity.prefab` | 3940068399 | `UnityEngine.Transform`<br>`BaseMelee` |
-| `letter_d` | `assets/content/structures/military_tunnels_signage/letter_d.prefab` | 3940114902 | `UnityEngine.Transform` |
-| `gameui.inventory.missions` | `assets/content/ui/gameui/gameui.inventory.missions.prefab` | 3941034721 | `UnityEngine.RectTransform`<br>`MissionUIPanel` |
-| `pine_d` | `assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/pine_d.prefab` | 3941253061 | `UnityEngine.Transform`<br>`Spawnable`<br>`TreeEntity`<br>`ResourceDispenser`<br>`UnityEngine.MeshCollider` |
-| `partition_wall_serving_hatch_cool variant` | `assets/content/structures/underwater_labs/modules_filler/skin_cool/partition_wall_serving_hatch_cool variant.prefab` | 3941420563 | `UnityEngine.Transform` |
-| `light_barrel_station` | `assets/content/props/misc_dressing_props/minors/light_barrel_station.prefab` | 3941669830 | `UnityEngine.Transform` |
-| `lighting (tnl_t_junction_xmas)` | `assets/content/structures/timber_mine_xmas/lighting/lighting (tnl_t_junction_xmas).prefab` | 3941712540 | `UnityEngine.Transform` |
-| `paddle.worldmodel` | `assets/prefabs/weapons/paddle/paddle.worldmodel.prefab` | 3941862373 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo`<br>`WorldModelRackMountConfig` |
-| `intersection-bb5-e` | `assets/bundled/prefabs/autospawn/tunnel-upwards/intersection-bb5-e.prefab` | 3942253172 | `UnityEngine.Transform`<br>`DungeonGridCell` |
-| `megaphone.weapon` | `assets/prefabs/voiceaudio/megaphone/megaphone.weapon.prefab` | 3942416854 | `UnityEngine.Transform`<br>`Megaphone` |
-| `bullet_impact_rock` | `assets/bundled/prefabs/fx/impacts/bullet/gravel/bullet_impact_rock.prefab` | 3943027024 | `UnityEngine.Transform`<br>`EffectScaleWithCameraDistance` |
-| `intersection-bb5-n` | `assets/bundled/prefabs/autospawn/tunnel-upwards/intersection-bb5-n.prefab` | 3943181077 | `UnityEngine.Transform`<br>`DungeonGridCell` |
-| `landmine.item` | `assets/prefabs/deployable/landmine/landmine.item.prefab` | 3943599922 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>`ItemModEntity` |
-| `pfx_lightning_medium` | `assets/content/effects/weather/pfx_lightning_medium.prefab` | 3943616471 | `UnityEngine.Transform` |
-| `skulltrophy.table.deployed` | `assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.table.deployed.prefab` | 3944492824 | `UnityEngine.Transform`<br>`SkullTrophy`<br>`Model`<br>`GroundWatch`<br>`DestroyOnGroundMissing`<br>... |
-| `chicken.ragdoll` | `assets/rust.ai/agents/chicken/chicken.ragdoll.prefab` | 3944627492 | `UnityEngine.Transform`<br>`Ragdoll`<br>`Model`<br>`ArticulatedOccludee`<br>`UnityEngine.Rigidbody`<br>... |
-| `ocotillo_c` | `assets/bundled/prefabs/autospawn/resource/v3_bushes_arid_ocotillo/ocotillo_c.prefab` | 3944804480 | `UnityEngine.Transform`<br>`Spawnable`<br>`BushEntity`<br>`UnityEngine.CapsuleCollider` |
-| `creeping_plant_b` | `assets/content/nature/overgrowth/creeping_plant_b.prefab` | 3944871620 | `UnityEngine.Transform`<br>`BiomeVisuals` |
-| `silencer.item` | `assets/prefabs/weapon mods/silencers/silencer.item.prefab` | 3945301531 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemBlueprint`<br>`ItemModEntity`<br>`ItemModSound` |
-| `chassis_transmission` | `assets/content/vehicles/modularcar/models/components/prefab/chassis_transmission.prefab` | 3945393125 | `UnityEngine.Transform` |
-| `mobileinventory.entity` | `assets/prefabs/voiceaudio/mobilephone/mobileinventory.entity.prefab` | 3945729556 | `UnityEngine.Transform`<br>`MobileInventoryEntity` |
-| `ui.dialog.marketterminal` | `assets/prefabs/misc/marketplace/ui.dialog.marketterminal.prefab` | 3945898597 | `UnityEngine.RectTransform`<br>`NeedsKeyboard`<br>`UIMarketTerminal`<br>`UIEscapeCapture` |
-| `igniter.deployed` | `assets/prefabs/deployable/playerioents/igniter/igniter.deployed.prefab` | 3946116692 | `UnityEngine.Transform`<br>`Igniter`<br>`UnityEngine.BoxCollider`<br>`GroundWatch`<br>`DestroyOnGroundMissing` |
-| `connectedspeaker.deployed.static` | `assets/prefabs/voiceaudio/hornspeaker/connectedspeaker.deployed.static.prefab` | 3946294029 | `UnityEngine.Transform`<br>`ConnectedSpeaker`<br>`UnityEngine.BoxCollider` |
-| `firecracker_crack` | `assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecracker_crack.prefab` | 3946327700 | `UnityEngine.Transform` |
-| `splashloop` | `assets/content/vehicles/boats/effects/splashloop.prefab` | 3946891836 | `UnityEngine.Transform` |
-| `w_ballista_spear` | `assets/content/vehicles/siegeweapons/ballista/ammo/prefabs/w_ballista_spear.prefab` | 3947220154 | `UnityEngine.Transform`<br>`UnityEngine.CapsuleCollider` |
-| `gameui.conversationscreen` | `assets/content/ui/gameui/gameui.conversationscreen.prefab` | 3947405411 | `UnityEngine.RectTransform`<br>`UIConversationScreen`<br>`UIEscapeCapture` |
 
 ---
 ### Navigation

@@ -95,6 +95,7 @@
 | `wheat.skin.5.dying` | `assets/prefabs/plants/wheat/wheat.skin.5.dying.prefab` | 31933503 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
 | `jump-land-rock` | `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/rock/jump-land-rock.prefab` | 31996361 | `UnityEngine.Transform` |
 | `train_tunnel_double_slope_transition_up_b_72m` | `assets/content/structures/train_tunnels/train_tunnel_double_slope_transition_up_b_72m.prefab` | 32026019 | `UnityEngine.Transform`<br>`TrainTrackSpline` |
+| `wall_c` | `assets/prefabs/building/wall.external.high.frontier/wall_c.prefab` | 32715754 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `bush_willow_snow_small_a` | `assets/bundled/prefabs/autospawn/resource/v3_bushes_arctic/bush_willow_snow_small_a.prefab` | 32775274 | `UnityEngine.Transform`<br>`Spawnable`<br>`BushEntity`<br>`UnityEngine.CapsuleCollider` |
 | `pfx_wheel_trail_snow` | `assets/content/effects/cars/pfx_wheel_trail_snow.prefab` | 32949668 | `UnityEngine.Transform` |
 | `cover_panel_decal_g` | `assets/content/mesh decals/metal_details/cover_panel_decal_g.prefab` | 33239479 | `UnityEngine.Transform` |
@@ -135,7 +136,6 @@
 | `creeping_plants_sphere_tank_a_snow` | `assets/content/nature/overgrowth/creeping_plants_sphere_tank_a_snow.prefab` | 43752942 | `UnityEngine.Transform` |
 | `oilrig_moon_pool_crane` | `assets/content/props/moonpool_crane/oilrig_moon_pool_crane.prefab` | 44348144 | `UnityEngine.Transform` |
 | `desert_military_base_a_scene` | `assets/bundled/prefabs/remapped/monument/military_bases/desert_military_base_a_scene.prefab` | 44469932 | `UnityEngine.Transform`<br>`ScenePrefab` |
-| `itempreview_abyss_rifle` | `assets/content/ui/menuui/itemstore/previews/abyss pack/itempreview_abyss_rifle.prefab` | 44707083 | `UnityEngine.Transform` |
 | `waterjug.worldmodel` | `assets/prefabs/food/water jug/waterjug.worldmodel.prefab` | 44882496 | `UnityEngine.Transform`<br>`WorldModel`<br>`Model`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
 | `hackingdevice` | `assets/prefabs/deployable/chinooklockedcrate/hackingdevice.prefab` | 44938382 | `UnityEngine.Transform` |
 | `grenade.f1.entity` | `assets/prefabs/weapons/f1 grenade/grenade.f1.entity.prefab` | 45697420 | `UnityEngine.Transform`<br>`GrenadeWeapon`<br>`Model` |
@@ -162,6 +162,7 @@
 | `roof.twig.corner.60.concave.l` | `assets/prefabs/building core/roof/roof.twig.corner.60.concave.l.prefab` | 50307099 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `search-light-deploy` | `assets/prefabs/deployable/search light/effects/search-light-deploy.prefab` | 50651091 | `UnityEngine.Transform` |
 | `sofa.deployed` | `assets/prefabs/deployable/sofa/sofa.deployed.prefab` | 51176708 | `UnityEngine.Transform`<br>`BaseVehicle`<br>`Model`<br>`GroundWatch`<br>`DestroyOnGroundMissing` |
+| `adobewall_prefab` | `assets/prefabs/building/wall.external.high.adobe/models/adobewall_prefab.prefab` | 51183809 | `UnityEngine.Transform` |
 | `cowbell.weapon` | `assets/prefabs/instruments/cowbell/cowbell.weapon.prefab` | 52738779 | `UnityEngine.Transform`<br>`InstrumentTool`<br>`InstrumentKeyController` |
 | `douglas_fir_a` | `assets/content/nature/treessource/douglas_fir/douglas_fir_a.prefab` | 52783436 | `UnityEngine.Transform` |
 | `lootpanel.bbq_cookingworkbench` | `assets/bundled/prefabs/ui/lootpanels/lootpanel.bbq_cookingworkbench.prefab` | 52890755 | `UnityEngine.RectTransform`<br>`LootPanelOven`<br>`ContainerSourceLoot` |
@@ -500,7 +501,6 @@
 | `longsword.projectile` | `assets/prefabs/weapons/sword big/longsword.projectile.prefab` | 151139324 | `UnityEngine.Transform`<br>`Projectile` |
 | `footstep-grass` | `assets/bundled/prefabs/fx/impacts/footstep/burlap/grass/footstep-grass.prefab` | 151451363 | `UnityEngine.Transform` |
 | `road_tunnel_double_exit_a_36m` | `assets/content/structures/road_tunnels/road_tunnel_double_exit_a_36m.prefab` | 151676791 | `UnityEngine.Transform` |
-| `lighthouse_lighting` | `assets/content/props/light_fixtures/v2/radtown work prefabs/lighthouse_lighting.prefab` | 151986387 | `UnityEngine.Transform` |
 
 ---
 ### Navigation

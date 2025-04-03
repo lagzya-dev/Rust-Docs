@@ -1,6 +1,19 @@
 # Effects (Page 5 of 5)
 | Prefab Name |
 |------------|
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/generic/jump-land-concrete.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/grass/jump-land-grass.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/gravel/jump-land-concrete.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/metal/jump-land-metal.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/metalore/jump-land-rock.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/rock/jump-land-rock.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/sand/jump-land-sand.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/snow/jump-land-snow.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/stones/jump-land-concrete.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/water/jump_land_water.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/wood/jump-land-wood.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/boots/cloth/jump-land-cloth.prefab` |
+| `assets/bundled/prefabs/fx/impacts/jump-start/boots/concrete/jump-land-concrete.prefab` |
 | `assets/bundled/prefabs/fx/impacts/jump-start/boots/dirt/jump-land-dirt.prefab` |
 | `assets/bundled/prefabs/fx/impacts/jump-start/boots/forest/jump-land-forest.prefab` |
 | `assets/bundled/prefabs/fx/impacts/jump-start/boots/generic/jump-land-concrete.prefab` |

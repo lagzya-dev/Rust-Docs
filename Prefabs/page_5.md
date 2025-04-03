@@ -1,6 +1,20 @@
 # Prefabs (Page 5 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `roadsign8static` | `assets/content/props/roadsigns/roadsign8static.prefab` | 637556140 | `UnityEngine.Transform`<br>`UnityEngine.CapsuleCollider` |
+| `tool-cupboard-retro-deploy` | `assets/prefabs/deployable/tool cupboard/retro/effects/tool-cupboard-retro-deploy.prefab` | 637720179 | `UnityEngine.Transform` |
+| `blood12slash_1` | `assets/bundled/prefabs/fx/impacts/slash/blood12slash_1.prefab` | 638094037 | `UnityEngine.Transform` |
+| `letter_r` | `assets/content/structures/military_tunnels_signage/letter_r.prefab` | 638347284 | `UnityEngine.Transform` |
+| `poster_d_framed` | `assets/content/props/office_furniture/posters/poster_d_framed.prefab` | 638476586 | `UnityEngine.Transform` |
+| `ghostsheet.female` | `assets/prefabs/clothes/halloween.ghostsheet/ghostsheet.female.prefab` | 638853151 | `UnityEngine.Transform`<br>`Wearable`<br>`Facepunch.Skeleton` |
+| `train_track_nogravel_3x6` | `assets/content/structures/train_tracks/train_track_nogravel_3x6.prefab` | 638924657 | `UnityEngine.Transform`<br>`TrainTrackSpline` |
+| `keypad` | `assets/prefabs/locks/keypad/model/keypad.prefab` | 639614811 | `UnityEngine.Transform` |
+| `stalagmite_single_b` | `assets/content/nature/stalagmites/stalagmite_single_b.prefab` | 639792802 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `glow_worms_sparse_flat` | `assets/content/nature/glow_worms/glow_worms_sparse_flat.prefab` | 640871364 | `UnityEngine.Transform` |
+| `queue_barrier_125` | `assets/content/props/queue_barrier/queue_barrier_125.prefab` | 641083791 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `stairs_barrier_900` | `assets/content/structures/stairs_scaffoldings/stairs_barrier_900.prefab` | 641624518 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `chair_c.static` | `assets/bundled/prefabs/static/chair_c.static.prefab` | 641900253 | `UnityEngine.Transform`<br>`BaseChair` |
+| `underwaterlab_dwelling_600_corridor_b` | `assets/prefabs/misc/underwaterlabsdwelling/underwaterlab_dwelling_600_corridor_b.prefab` | 642230139 | `UnityEngine.Transform`<br>`NPCDwelling` |
 | `water_well_deployable` | `assets/prefabs/deployable/water well/water_well_deployable.prefab` | 642325379 | `UnityEngine.Transform` |
 | `electric_fan_a` | `assets/content/props/electric_fan/electric_fan_a.prefab` | 642363467 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `pistons2.item` | `assets/prefabs/componentitems/engine_pistons/pistons2.item.prefab` | 643945700 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemBlueprint`<br>`Rust.Modular.ItemModEngineItem` |
@@ -104,7 +118,6 @@
 | `footstep-concrete` | `assets/bundled/prefabs/fx/impacts/footstep/burlap/generic/footstep-concrete.prefab` | 674936376 | `UnityEngine.Transform` |
 | `junkyard_stack_d` | `assets/content/props/junkyard_stacks/junkyard_stack_d.prefab` | 675167576 | `UnityEngine.Transform` |
 | `keycard_blue_pickup.entity` | `assets/prefabs/tools/keycard/keycard_blue_pickup.entity.prefab` | 675407027 | `UnityEngine.Transform`<br>`ItemPickup`<br>`PhysicsEffects` |
-| `itempreview_frontier_planters` | `assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_planters.prefab` | 675537235 | `UnityEngine.Transform` |
 | `magazine` | `assets/prefabs/weapons/smg/magazine.prefab` | 675630482 | `UnityEngine.Transform` |
 | `smallbackpack.wearable` | `assets/prefabs/misc/smallbackpack/smallbackpack.wearable.prefab` | 675810565 | `UnityEngine.Transform`<br>`Wearable`<br>`Facepunch.Skeleton`<br>`WearableHolsterOffset` |
 | `patch_grass_medium_arid` | `assets/content/nature/overgrowth/patch_grass_medium_arid.prefab` | 675885887 | `UnityEngine.Transform` |
@@ -205,6 +218,7 @@
 | `stables_a_scene` | `assets/bundled/prefabs/remapped/monument/small/stables_a_scene.prefab` | 703506962 | `UnityEngine.Transform`<br>`ScenePrefab` |
 | `pfx_rocketpod_rocket` | `assets/content/vehicles/attackhelicopter/effects/pfx_rocketpod_rocket.prefab` | 704159994 | `UnityEngine.Transform` |
 | `food_pie_hunters.projectile` | `assets/prefabs/food/pies/projectiles/food_pie_hunters.projectile.prefab` | 704560237 | `UnityEngine.Transform`<br>`Projectile` |
+| `zonegeneric` | `assets/content/effects/zones/zonegeneric.prefab` | 704618365 | `UnityEngine.Transform` |
 | `crude_oil.item` | `assets/prefabs/resource/crude oil/crude_oil.item.prefab` | 704693575 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModCookable` |
 | `shotgun_pellet` | `assets/prefabs/ammo/shotgun/shotgun_pellet.prefab` | 704868432 | `UnityEngine.Transform` |
 | `cassetterecorder.weapon` | `assets/prefabs/voiceaudio/cassetterecorder/cassetterecorder.weapon.prefab` | 705457609 | `UnityEngine.Transform`<br>`RecorderTool` |
@@ -487,20 +501,6 @@
 | `poweredwaterpurifier.storage` | `assets/prefabs/deployable/playerioents/poweredwaterpurifier/poweredwaterpurifier.storage.prefab` | 795179107 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`LiquidContainer` |
 | `tambourine.item` | `assets/prefabs/instruments/tambourine/tambourine.item.prefab` | 795191325 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModEntity`<br>`ItemBlueprint` |
 | `attack-2` | `assets/prefabs/weapons/cleaver big/effects/attack-2.prefab` | 795210107 | `UnityEngine.Transform`<br>`ScreenBounce`<br>`ScreenFov`<br>`ScreenRotate`<br>`EffectAudioPerspectiveSwitcher` |
-| `itemstore.item.weapon` | `assets/content/ui/menuui/itemstore/_prefabs/itemstore.item.weapon.prefab` | 795443061 | `UnityEngine.RectTransform`<br>`ItemStorePackItem` |
-| `salvaged_cleaver.viewmodel` | `assets/prefabs/weapons/cleaver big/salvaged_cleaver.viewmodel.prefab` | 796637116 | `UnityEngine.Transform`<br>`BaseViewModel`<br>`ViewmodelSway`<br>`ViewmodelLower`<br>`ViewmodelBob`<br>... |
-| `strike` | `assets/prefabs/weapons/knife/effects/strike.prefab` | 796893045 | `UnityEngine.Transform`<br>`EffectAudioPerspectiveSwitcher` |
-| `computerstation.item` | `assets/prefabs/deployable/computerstation/computerstation.item.prefab` | 796893638 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>`ItemModEntity` |
-| `food_pie_generic.entity` | `assets/prefabs/food/pies/food_pie_generic.entity.prefab` | 797425204 | `UnityEngine.Transform`<br>`Food` |
-| `electricfurnace_on.static` | `assets/bundled/prefabs/static/electricfurnace_on.static.prefab` | 797555965 | `UnityEngine.Transform`<br>`BaseEntity`<br>`UnityEngine.BoxCollider` |
-| `range_overhang` | `assets/content/structures/launch_site/range_overhang.prefab` | 797747699 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `icewall` | `assets/prefabs/misc/xmas/icewalls/icewall.prefab` | 797759041 | `UnityEngine.Transform`<br>`IceFence`<br>`UnityEngine.AI.NavMeshObstacle` |
-| `wolfheaddress.wearable` | `assets/content/player/clothing/special/wolf head dress/wolfheaddress.wearable.prefab` | 797966627 | `UnityEngine.Transform`<br>`Wearable` |
-| `weapontest` | `assets/prefabs/gamemodes/weapontest.prefab` | 798330873 | `UnityEngine.Transform`<br>`BaseGameMode` |
-| `triggeranalytic` | `assets/prefabs/misc/analytics/triggeranalytic.prefab` | 798408797 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`TriggerAnalytic` |
-| `teslacoil` | `assets/prefabs/deployable/playerioents/teslacoil/teslacoil.prefab` | 798499108 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `partition_wall_serving_hatch_warm variant` | `assets/content/structures/underwater_labs/modules_filler/skin_warm/partition_wall_serving_hatch_warm variant.prefab` | 799752796 | `UnityEngine.Transform` |
-| `spring.worldmodel` | `assets/prefabs/componentitems/spring/spring.worldmodel.prefab` | 799852203 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`WorldModel`<br>`ColliderInfo` |
 
 ---
 ### Navigation

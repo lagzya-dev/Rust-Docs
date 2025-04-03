@@ -38,6 +38,15 @@ Total prefabs: 13616
 - [Prefabs Page 27](Prefabs/page_27.md)
 - [Prefabs Page 28](Prefabs/page_28.md)
 
+## Effects
+Total effects: 2188  
+
+- [Effects Page 1](Effects/page_1.md)
+- [Effects Page 2](Effects/page_2.md)
+- [Effects Page 3](Effects/page_3.md)
+- [Effects Page 4](Effects/page_4.md)
+- [Effects Page 5](Effects/page_5.md)
+
 ---
 ### Last Updated
-`2025-03-24 20:37 UTC`
+`2025-04-03 10:22 UTC`

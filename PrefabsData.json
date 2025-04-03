@@ -21449,6 +21449,38 @@
     ]
   },
   {
+    "ShortName": "zonegeneric",
+    "FullName": "assets/content/effects/zones/zonegeneric.prefab",
+    "PrefabId": 704618365,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "zonegenericsphere",
+    "FullName": "assets/content/effects/zones/zonegenericsphere.prefab",
+    "PrefabId": 1034079294,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "zoneheat",
+    "FullName": "assets/content/effects/zones/zoneheat.prefab",
+    "PrefabId": 504504324,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "zonewater",
+    "FullName": "assets/content/effects/zones/zonewater.prefab",
+    "PrefabId": 1907502230,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
     "ShortName": "brokenglass",
     "FullName": "assets/content/mesh decals/brokenglass/brokenglass.prefab",
     "PrefabId": 46330347,
@@ -29169,6 +29201,41 @@
     "PrefabId": 3159863377,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "discordtrophy.item",
+    "FullName": "assets/content/props/discord trophy/discordtrophy.item.prefab",
+    "PrefabId": 1386111701,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModDeployable",
+      "ItemModEntity",
+      "ItemBlueprint"
+    ]
+  },
+  {
+    "ShortName": "discordtrophy.worldmodel",
+    "FullName": "assets/content/props/discord trophy/discordtrophy.worldmodel.prefab",
+    "PrefabId": 336776395,
+    "Components": [
+      "UnityEngine.Transform",
+      "WorldModel",
+      "UnityEngine.BoxCollider",
+      "ColliderInfo"
+    ]
+  },
+  {
+    "ShortName": "discordtrophy_deployed",
+    "FullName": "assets/content/props/discord trophy/discordtrophy_deployed.prefab",
+    "PrefabId": 2535509681,
+    "Components": [
+      "UnityEngine.Transform",
+      "BaseCombatEntity",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "DestroyOnGroundMissing"
     ]
   },
   {
@@ -57442,6 +57509,17 @@
     ]
   },
   {
+    "ShortName": "menuui.itemstore.buildingskin.adobe_externalwallsandgate",
+    "FullName": "assets/content/ui/menuui/itemstore/building skins/adobe_externalwallsandgate/menuui.itemstore.buildingskin.adobe_externalwallsandgate.prefab",
+    "PrefabId": 2255530036,
+    "Components": [
+      "UnityEngine.RectTransform",
+      "ItemStorePack",
+      "MenuBackgroundOverride",
+      "UIEscapeCapture"
+    ]
+  },
+  {
     "ShortName": "menuui.itemstore.buildingskin.brick",
     "FullName": "assets/content/ui/menuui/itemstore/building skins/brick/menuui.itemstore.buildingskin.brick.prefab",
     "PrefabId": 1402897664,
@@ -58054,6 +58132,29 @@
     ]
   },
   {
+    "ShortName": "faberge_egg_g.deployed 1",
+    "FullName": "assets/content/ui/menuui/itemstore/misc/easter/_previews/2025/faberge_egg_g.deployed 1.prefab",
+    "PrefabId": 2405462017,
+    "Components": [
+      "UnityEngine.Transform",
+      "RustigeEgg",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "DestroyOnGroundMissing",
+      "Model"
+    ]
+  },
+  {
+    "ShortName": "horse.costume 1",
+    "FullName": "assets/content/ui/menuui/itemstore/misc/easter/_previews/2025/horse.costume 1.prefab",
+    "PrefabId": 1716815439,
+    "Components": [
+      "UnityEngine.Transform",
+      "Wearable",
+      "Facepunch.Skeleton"
+    ]
+  },
+  {
     "ShortName": "menuui.itemstore.misc.factorydoor",
     "FullName": "assets/content/ui/menuui/itemstore/misc/factory door/menuui.itemstore.misc.factorydoor.prefab",
     "PrefabId": 1348016041,
@@ -58120,6 +58221,46 @@
     ]
   },
   {
+    "ShortName": "itempreview_abyss_hatchet",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/abyss/_previews/itempreview_abyss_hatchet.prefab",
+    "PrefabId": 1052149985,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_abyss_pickaxe",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/abyss/_previews/itempreview_abyss_pickaxe.prefab",
+    "PrefabId": 206877722,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_abyss_rifle",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/abyss/_previews/itempreview_abyss_rifle.prefab",
+    "PrefabId": 4033864117,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_abyss_sunkenknife",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/abyss/_previews/itempreview_abyss_sunkenknife.prefab",
+    "PrefabId": 2934589089,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_abyss_torch",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/abyss/_previews/itempreview_abyss_torch.prefab",
+    "PrefabId": 1566126419,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
     "ShortName": "menuui.itemstore.pack.abyss",
     "FullName": "assets/content/ui/menuui/itemstore/packs/abyss/menuui.itemstore.pack.abyss.prefab",
     "PrefabId": 2852014074,
@@ -58139,6 +58280,86 @@
       "ItemStorePack",
       "MenuBackgroundOverride",
       "UIEscapeCapture"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_fishtrophy",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_fishtrophy.prefab",
+    "PrefabId": 1974442982,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_huntingtrophy",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_huntingtrophy.prefab",
+    "PrefabId": 1943596640,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_planters",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_planters.prefab",
+    "PrefabId": 4151223911,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_rockingchair",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_rockingchair.prefab",
+    "PrefabId": 3592483580,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_skinningknife",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_skinningknife.prefab",
+    "PrefabId": 1678540829,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_storagebarrel",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_storagebarrel.prefab",
+    "PrefabId": 3943347491,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_torchholder",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_torchholder.prefab",
+    "PrefabId": 4065394404,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_triangleplanter",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_triangleplanter.prefab",
+    "PrefabId": 1286917114,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_wantedposter",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_wantedposter.prefab",
+    "PrefabId": 1077368630,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "itempreview_frontier_weaponrack",
+    "FullName": "assets/content/ui/menuui/itemstore/packs/frontier/_previews/itempreview_frontier_weaponrack.prefab",
+    "PrefabId": 2842403379,
+    "Components": [
+      "UnityEngine.Transform"
     ]
   },
   {
@@ -58459,118 +58680,6 @@
       "ItemStorePack",
       "MenuBackgroundOverride",
       "UIEscapeCapture"
-    ]
-  },
-  {
-    "ShortName": "itempreview_abyss_hatchet",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/abyss pack/itempreview_abyss_hatchet.prefab",
-    "PrefabId": 3140552591,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_abyss_pickaxe",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/abyss pack/itempreview_abyss_pickaxe.prefab",
-    "PrefabId": 3618439772,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_abyss_rifle",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/abyss pack/itempreview_abyss_rifle.prefab",
-    "PrefabId": 44707083,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_abyss_torch",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/abyss pack/itempreview_abyss_torch.prefab",
-    "PrefabId": 2717275148,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_fishtrophy",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_fishtrophy.prefab",
-    "PrefabId": 4215355248,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_huntingtrophy",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_huntingtrophy.prefab",
-    "PrefabId": 3791705990,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_planters",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_planters.prefab",
-    "PrefabId": 675537235,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_rockingchair",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_rockingchair.prefab",
-    "PrefabId": 1231104953,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_skinningknife",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_skinningknife.prefab",
-    "PrefabId": 2321419273,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_storagebarrel",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_storagebarrel.prefab",
-    "PrefabId": 2313286122,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_torchholder",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_torchholder.prefab",
-    "PrefabId": 1581518124,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_triangleplanter",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_triangleplanter.prefab",
-    "PrefabId": 3878632449,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_wantedposter",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_wantedposter.prefab",
-    "PrefabId": 285963694,
-    "Components": [
-      "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "itempreview_frontier_weaponrack",
-    "FullName": "assets/content/ui/menuui/itemstore/previews/frontier pack/itempreview_frontier_weaponrack.prefab",
-    "PrefabId": 1376325278,
-    "Components": [
-      "UnityEngine.Transform"
     ]
   },
   {
@@ -73148,6 +73257,50 @@
     ]
   },
   {
+    "ShortName": "gates.external.high.adobe.item",
+    "FullName": "assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.item.prefab",
+    "PrefabId": 3776427397,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModDeployable",
+      "ItemBlueprint",
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "gates.external.high.adobe",
+    "FullName": "assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.prefab",
+    "PrefabId": 1587209110,
+    "Components": [
+      "UnityEngine.Transform",
+      "Door",
+      "Model"
+    ]
+  },
+  {
+    "ShortName": "gates.external.high.frontier.item",
+    "FullName": "assets/prefabs/building/gates.external.high.frontier/gates.external.high.frontier.item.prefab",
+    "PrefabId": 2381025130,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModDeployable",
+      "ItemBlueprint",
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "gates.external.high.frontier",
+    "FullName": "assets/prefabs/building/gates.external.high.frontier/gates.external.high.frontier.prefab",
+    "PrefabId": 798296829,
+    "Components": [
+      "UnityEngine.Transform",
+      "Door",
+      "Model"
+    ]
+  },
+  {
     "ShortName": "gates.external.high.stone.item",
     "FullName": "assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.item.prefab",
     "PrefabId": 1984156475,
@@ -73356,6 +73509,85 @@
     "Components": [
       "UnityEngine.Transform",
       "ZiplineMountable"
+    ]
+  },
+  {
+    "ShortName": "adobewall_prefab",
+    "FullName": "assets/prefabs/building/wall.external.high.adobe/models/adobewall_prefab.prefab",
+    "PrefabId": 51183809,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "wall.external.high.adobe.item",
+    "FullName": "assets/prefabs/building/wall.external.high.adobe/wall.external.high.adobe.item.prefab",
+    "PrefabId": 1651243358,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModDeployable",
+      "ItemBlueprint",
+      "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "wall.external.high.adobe",
+    "FullName": "assets/prefabs/building/wall.external.high.adobe/wall.external.high.adobe.prefab",
+    "PrefabId": 542454407,
+    "Components": [
+      "UnityEngine.Transform",
+      "SimpleBuildingBlock",
+      "UnityEngine.AI.NavMeshObstacle"
+    ]
+  },
+  {
+    "ShortName": "wall.external.high.frontier.item",
+    "FullName": "assets/prefabs/building/wall.external.high.frontier/wall.external.high.frontier.item.prefab",
+    "PrefabId": 300395975,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModDeployable",
+      "ItemModEntity",
+      "ItemBlueprint"
+    ]
+  },
+  {
+    "ShortName": "wall.external.high.frontier",
+    "FullName": "assets/prefabs/building/wall.external.high.frontier/wall.external.high.frontier.prefab",
+    "PrefabId": 4026344599,
+    "Components": [
+      "UnityEngine.Transform",
+      "SimpleBuildingBlock",
+      "UnityEngine.AI.NavMeshObstacle"
+    ]
+  },
+  {
+    "ShortName": "wall_a",
+    "FullName": "assets/prefabs/building/wall.external.high.frontier/wall_a.prefab",
+    "PrefabId": 1579431744,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.MeshCollider"
+    ]
+  },
+  {
+    "ShortName": "wall_b",
+    "FullName": "assets/prefabs/building/wall.external.high.frontier/wall_b.prefab",
+    "PrefabId": 1473169108,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.MeshCollider"
+    ]
+  },
+  {
+    "ShortName": "wall_c",
+    "FullName": "assets/prefabs/building/wall.external.high.frontier/wall_c.prefab",
+    "PrefabId": 32715754,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.MeshCollider"
     ]
   },
   {
@@ -79204,6 +79436,19 @@
     ]
   },
   {
+    "ShortName": "bed_deployed.corpse",
+    "FullName": "assets/prefabs/deployable/bed/bed_deployed.corpse.prefab",
+    "PrefabId": 1642908740,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "SleepingBag",
+      "Model",
+      "RepositionOnGroundMissing"
+    ]
+  },
+  {
     "ShortName": "bed_deployed",
     "FullName": "assets/prefabs/deployable/bed/bed_deployed.prefab",
     "PrefabId": 3928883189,
@@ -80843,6 +81088,19 @@
     ]
   },
   {
+    "ShortName": "fridge.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/fridge/fridge.deployed.corpse.prefab",
+    "PrefabId": 2800679511,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "UnityEngine.BoxCollider",
+      "RepositionOnGroundMissing"
+    ]
+  },
+  {
     "ShortName": "fridge.deployed",
     "FullName": "assets/prefabs/deployable/fridge/fridge.deployed.prefab",
     "PrefabId": 1844023509,
@@ -80905,6 +81163,19 @@
     "PrefabId": 4192425004,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "furnace.corpse",
+    "FullName": "assets/prefabs/deployable/furnace/furnace.corpse.prefab",
+    "PrefabId": 1839500069,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "RepositionOnGroundMissing",
+      "Model"
     ]
   },
   {
@@ -81572,6 +81843,19 @@
     ]
   },
   {
+    "ShortName": "box.wooden.large.corpse",
+    "FullName": "assets/prefabs/deployable/large wood storage/box.wooden.large.corpse.prefab",
+    "PrefabId": 2785194784,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "RepositionOnGroundMissing",
+      "Model"
+    ]
+  },
+  {
     "ShortName": "box.wooden.large.item",
     "FullName": "assets/prefabs/deployable/large wood storage/box.wooden.large.item.prefab",
     "PrefabId": 282612273,
@@ -81602,6 +81886,19 @@
     "PrefabId": 2275529615,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "medieval.box.wooden.large.corpse",
+    "FullName": "assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.box.wooden.large.corpse.prefab",
+    "PrefabId": 2064794966,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "UnityEngine.BoxCollider",
+      "RepositionOnGroundMissing"
     ]
   },
   {
@@ -81636,6 +81933,19 @@
     "Components": [
       "UnityEngine.Transform",
       "ParticleSystemContainer"
+    ]
+  },
+  {
+    "ShortName": "legacy_furnace.corpse",
+    "FullName": "assets/prefabs/deployable/legacyfurnace/legacy_furnace.corpse.prefab",
+    "PrefabId": 1538368754,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "RepositionOnGroundMissing",
+      "UnityEngine.CapsuleCollider"
     ]
   },
   {
@@ -81727,6 +82037,19 @@
     "Components": [
       "UnityEngine.Transform",
       "Locker"
+    ]
+  },
+  {
+    "ShortName": "locker.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/locker/locker.deployed.corpse.prefab",
+    "PrefabId": 1291020492,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider"
     ]
   },
   {
@@ -82497,7 +82820,8 @@
       "HBHFSensor",
       "UnityEngine.BoxCollider",
       "GroundWatch",
-      "DestroyOnGroundMissing"
+      "DestroyOnGroundMissing",
+      "EntityFlag_Toggle"
     ]
   },
   {
@@ -82666,6 +82990,19 @@
     "PrefabId": 884069569,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "electricfurnace.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.deployed.corpse.prefab",
+    "PrefabId": 3711844390,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "UnityEngine.BoxCollider",
+      "RepositionOnGroundMissing"
     ]
   },
   {
@@ -84814,6 +85151,19 @@
     ]
   },
   {
+    "ShortName": "sleepingbag.corpse",
+    "FullName": "assets/prefabs/deployable/sleeping bag/sleepingbag.corpse.prefab",
+    "PrefabId": 403186932,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "SleepingBag",
+      "Model",
+      "RepositionOnGroundMissing"
+    ]
+  },
+  {
     "ShortName": "sleepingbag.item",
     "FullName": "assets/prefabs/deployable/sleeping bag/sleepingbag.item.prefab",
     "PrefabId": 2829311798,
@@ -85091,6 +85441,19 @@
     ]
   },
   {
+    "ShortName": "workbench1.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.corpse.prefab",
+    "PrefabId": 4066798181,
+    "Components": [
+      "UnityEngine.Transform",
+      "Model",
+      "GroundWatch",
+      "ContainerCorpse",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider"
+    ]
+  },
+  {
     "ShortName": "workbench1.deployed",
     "FullName": "assets/prefabs/deployable/tier 1 workbench/workbench1.deployed.prefab",
     "PrefabId": 2561955800,
@@ -85129,6 +85492,19 @@
     "Components": [
       "UnityEngine.Transform",
       "UnityEngine.MeshCollider"
+    ]
+  },
+  {
+    "ShortName": "workbench2.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/tier 2 workbench/workbench2.deployed.corpse.prefab",
+    "PrefabId": 3145678818,
+    "Components": [
+      "UnityEngine.Transform",
+      "Model",
+      "GroundWatch",
+      "ContainerCorpse",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider"
     ]
   },
   {
@@ -85173,6 +85549,18 @@
     ]
   },
   {
+    "ShortName": "workbench3.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.corpse.prefab",
+    "PrefabId": 3678765790,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "RepositionOnGroundMissing"
+    ]
+  },
+  {
     "ShortName": "workbench3.deployed",
     "FullName": "assets/prefabs/deployable/tier 3 workbench/workbench3.deployed.prefab",
     "PrefabId": 2764275075,
@@ -85194,6 +85582,19 @@
       "ItemModDeployable",
       "ItemBlueprint",
       "ItemModEntity"
+    ]
+  },
+  {
+    "ShortName": "cupboard.tool.corpse",
+    "FullName": "assets/prefabs/deployable/tool cupboard/cupboard.tool.corpse.prefab",
+    "PrefabId": 1978042149,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "RepositionOnGroundMissing",
+      "ColliderInfo"
     ]
   },
   {
@@ -85227,6 +85628,15 @@
     "PrefabId": 2780470567,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "invisible_building_auth",
+    "FullName": "assets/prefabs/deployable/tool cupboard/invisible_building_auth.prefab",
+    "PrefabId": 216998040,
+    "Components": [
+      "UnityEngine.Transform",
+      "BuildingPrivlidge"
     ]
   },
   {
@@ -85307,6 +85717,19 @@
     "PrefabId": 1451117054,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "cupboard.tool.retro.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/tool cupboard/retro/cupboard.tool.retro.deployed.corpse.prefab",
+    "PrefabId": 2103277438,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "GroundWatch",
+      "Model",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider"
     ]
   },
   {
@@ -85405,6 +85828,19 @@
     "PrefabId": 2225548185,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "cupboard.tool.shockbyte.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/tool cupboard/shockbyte/cupboard.tool.shockbyte.deployed.corpse.prefab",
+    "PrefabId": 272439463,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "Model",
+      "RepositionOnGroundMissing"
     ]
   },
   {
@@ -85715,6 +86151,20 @@
       "UnityEngine.Transform",
       "Model",
       "VendingMachineFront"
+    ]
+  },
+  {
+    "ShortName": "vendingmachine.deployed.corpse",
+    "FullName": "assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.corpse.prefab",
+    "PrefabId": 2525285291,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider",
+      "ColliderInfo"
     ]
   },
   {
@@ -86165,6 +86615,19 @@
     "PrefabId": 3309562397,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "woodbox_deployed.corpse",
+    "FullName": "assets/prefabs/deployable/woodenbox/woodbox_deployed.corpse.prefab",
+    "PrefabId": 2010632750,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "UnityEngine.BoxCollider",
+      "RepositionOnGroundMissing"
     ]
   },
   {
@@ -87296,7 +87759,8 @@
     "Components": [
       "UnityEngine.Transform",
       "ItemDefinition",
-      "ItemModBeehiveNucleus"
+      "ItemModBeehiveNucleus",
+      "ItemModCompostable"
     ]
   },
   {
@@ -89072,17 +89536,6 @@
     "PrefabId": 54002641,
     "Components": [
       "UnityEngine.Transform"
-    ]
-  },
-  {
-    "ShortName": "reclaimbackpack",
-    "FullName": "assets/prefabs/gamemodes/objects/reclaim/reclaimbackpack.prefab",
-    "PrefabId": 1658485694,
-    "Components": [
-      "UnityEngine.Transform",
-      "ReclaimBackpack",
-      "UnityEngine.BoxCollider",
-      "UnityEngine.Rigidbody"
     ]
   },
   {
@@ -91797,6 +92250,19 @@
     ]
   },
   {
+    "ShortName": "storage_barrel_b.corpse",
+    "FullName": "assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_b.corpse.prefab",
+    "PrefabId": 1186322904,
+    "Components": [
+      "UnityEngine.Transform",
+      "Model",
+      "GroundWatch",
+      "ContainerCorpse",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider"
+    ]
+  },
+  {
     "ShortName": "storage_barrel_b.item",
     "FullName": "assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_b.item.prefab",
     "PrefabId": 3057738335,
@@ -91818,6 +92284,19 @@
       "Model",
       "GroundWatch",
       "DestroyOnGroundMissing"
+    ]
+  },
+  {
+    "ShortName": "storage_barrel_c.corpse",
+    "FullName": "assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_c.corpse.prefab",
+    "PrefabId": 632015332,
+    "Components": [
+      "UnityEngine.Transform",
+      "Model",
+      "GroundWatch",
+      "ContainerCorpse",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider"
     ]
   },
   {
@@ -92564,8 +93043,8 @@
     "PrefabId": 2218444695,
     "Components": [
       "UnityEngine.Transform",
-      "Wearable",
-      "Facepunch.Skeleton"
+      "Facepunch.Skeleton",
+      "Wearable"
     ]
   },
   {
@@ -92586,8 +93065,8 @@
     "PrefabId": 1862489329,
     "Components": [
       "UnityEngine.Transform",
-      "Wearable",
-      "Facepunch.Skeleton"
+      "Facepunch.Skeleton",
+      "Wearable"
     ]
   },
   {
@@ -93132,6 +93611,86 @@
     ]
   },
   {
+    "ShortName": "faberge_egg_g.deployed",
+    "FullName": "assets/prefabs/misc/easter/faberge_egg_g/faberge_egg_g.deployed.prefab",
+    "PrefabId": 160371676,
+    "Components": [
+      "UnityEngine.Transform",
+      "RustigeEgg",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "DestroyOnGroundMissing",
+      "Model"
+    ]
+  },
+  {
+    "ShortName": "faberge_egg_g.worldmodel",
+    "FullName": "assets/prefabs/misc/easter/faberge_egg_g/faberge_egg_g.worldmodel.prefab",
+    "PrefabId": 883303996,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.BoxCollider",
+      "WorldModel",
+      "ColliderInfo"
+    ]
+  },
+  {
+    "ShortName": "rustige_egg_g.item",
+    "FullName": "assets/prefabs/misc/easter/faberge_egg_g/rustige_egg_g.item.prefab",
+    "PrefabId": 4005640533,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModDeployable",
+      "ItemModEntity",
+      "ItemBlueprint"
+    ]
+  },
+  {
+    "ShortName": "horse.costume.female",
+    "FullName": "assets/prefabs/misc/easter/horsecostume/horse.costume.female.prefab",
+    "PrefabId": 3858380614,
+    "Components": [
+      "UnityEngine.Transform",
+      "Wearable",
+      "Facepunch.Skeleton"
+    ]
+  },
+  {
+    "ShortName": "horse.costume.item",
+    "FullName": "assets/prefabs/misc/easter/horsecostume/horse.costume.item.prefab",
+    "PrefabId": 1429285566,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModWearable",
+      "ItemBlueprint",
+      "ItemFootstepSounds"
+    ]
+  },
+  {
+    "ShortName": "horse.costume",
+    "FullName": "assets/prefabs/misc/easter/horsecostume/horse.costume.prefab",
+    "PrefabId": 601191756,
+    "Components": [
+      "UnityEngine.Transform",
+      "Wearable",
+      "Facepunch.Skeleton"
+    ]
+  },
+  {
+    "ShortName": "horsecostume_wm",
+    "FullName": "assets/prefabs/misc/easter/horsecostume/horsecostume_wm.prefab",
+    "PrefabId": 1325371205,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.BoxCollider",
+      "WorldModel",
+      "ColliderInfo",
+      "WorldModelRandomiser"
+    ]
+  },
+  {
     "ShortName": "nest.hat.item",
     "FullName": "assets/prefabs/misc/easter/nest_hat/nest.hat.item.prefab",
     "PrefabId": 3572434199,
@@ -93631,6 +94190,20 @@
     "Components": [
       "UnityEngine.Transform",
       "UnityEngine.MeshCollider"
+    ]
+  },
+  {
+    "ShortName": "coffinstorage.corpse",
+    "FullName": "assets/prefabs/misc/halloween/coffin/coffinstorage.corpse.prefab",
+    "PrefabId": 1441221703,
+    "Components": [
+      "UnityEngine.Transform",
+      "ContainerCorpse",
+      "Model",
+      "GroundWatch",
+      "RepositionOnGroundMissing",
+      "UnityEngine.BoxCollider",
+      "ColliderInfo"
     ]
   },
   {
@@ -97231,7 +97804,8 @@
       "UnityEngine.Transform",
       "WorldModel",
       "UnityEngine.BoxCollider",
-      "ColliderInfo"
+      "ColliderInfo",
+      "WorldModelRackMountConfig"
     ]
   },
   {
@@ -97818,6 +98392,19 @@
     "PrefabId": 2680388551,
     "Components": [
       "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "beachtowel.deployed.corpse",
+    "FullName": "assets/prefabs/misc/summer_dlc/beach_towel/beachtowel.deployed.corpse.prefab",
+    "PrefabId": 2298267336,
+    "Components": [
+      "UnityEngine.Transform",
+      "UnityEngine.BoxCollider",
+      "GroundWatch",
+      "SleepingBag",
+      "Model",
+      "RepositionOnGroundMissing"
     ]
   },
   {
@@ -118926,6 +119513,153 @@
     ]
   },
   {
+    "ShortName": "attack-1",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/attack-1.prefab",
+    "PrefabId": 3692363228,
+    "Components": [
+      "UnityEngine.Transform",
+      "ScreenBounce",
+      "ScreenFov",
+      "ScreenRotate",
+      "EffectAudioPerspectiveSwitcher"
+    ]
+  },
+  {
+    "ShortName": "attack-2",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/attack-2.prefab",
+    "PrefabId": 1928011098,
+    "Components": [
+      "UnityEngine.Transform",
+      "ScreenBounce",
+      "ScreenFov",
+      "ScreenRotate",
+      "EffectAudioPerspectiveSwitcher"
+    ]
+  },
+  {
+    "ShortName": "deploy",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/deploy.prefab",
+    "PrefabId": 3929387574,
+    "Components": [
+      "UnityEngine.Transform",
+      "EffectAudioPerspectiveSwitcher"
+    ]
+  },
+  {
+    "ShortName": "hit",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/hit.prefab",
+    "PrefabId": 1263855835,
+    "Components": [
+      "UnityEngine.Transform",
+      "EffectAudioPerspectiveSwitcher"
+    ]
+  },
+  {
+    "ShortName": "holster",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/holster.prefab",
+    "PrefabId": 1396560569,
+    "Components": [
+      "UnityEngine.Transform"
+    ]
+  },
+  {
+    "ShortName": "strike",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike.prefab",
+    "PrefabId": 831666390,
+    "Components": [
+      "UnityEngine.Transform",
+      "EffectAudioPerspectiveSwitcher"
+    ]
+  },
+  {
+    "ShortName": "strike_screenshake",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike_screenshake.prefab",
+    "PrefabId": 2285962420,
+    "Components": [
+      "UnityEngine.Transform",
+      "ScreenBounce",
+      "ScreenFov",
+      "ScreenRotate"
+    ]
+  },
+  {
+    "ShortName": "strike-soft",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike-soft.prefab",
+    "PrefabId": 301189841,
+    "Components": [
+      "UnityEngine.Transform",
+      "EffectAudioPerspectiveSwitcher"
+    ]
+  },
+  {
+    "ShortName": "throw",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/effects/throw.prefab",
+    "PrefabId": 3910720626,
+    "Components": [
+      "UnityEngine.Transform",
+      "ScreenBounce",
+      "ScreenFov",
+      "ScreenRotate"
+    ]
+  },
+  {
+    "ShortName": "sunken.knife.combat.entity",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/sunken.knife.combat.entity.prefab",
+    "PrefabId": 2957160983,
+    "Components": [
+      "UnityEngine.Transform",
+      "BaseMelee",
+      "Model"
+    ]
+  },
+  {
+    "ShortName": "sunken.knife.combat.worldmodel",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/sunken.knife.combat.worldmodel.prefab",
+    "PrefabId": 2820982246,
+    "Components": [
+      "UnityEngine.Transform",
+      "WorldModel",
+      "UnityEngine.BoxCollider",
+      "ColliderInfo",
+      "WorldModelRackMountConfig"
+    ]
+  },
+  {
+    "ShortName": "sunkenknife.item",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/sunkenknife.item.prefab",
+    "PrefabId": 2313315070,
+    "Components": [
+      "UnityEngine.Transform",
+      "ItemDefinition",
+      "ItemModEntity",
+      "ItemBlueprint",
+      "ItemModProjectile"
+    ]
+  },
+  {
+    "ShortName": "sunkenknife.projectile",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/sunkenknife.projectile.prefab",
+    "PrefabId": 465698672,
+    "Components": [
+      "UnityEngine.Transform",
+      "Projectile"
+    ]
+  },
+  {
+    "ShortName": "sunkenknife.viewmodel",
+    "FullName": "assets/prefabs/weapons/knife/skins/sunkenknife/sunkenknife.viewmodel.prefab",
+    "PrefabId": 566585973,
+    "Components": [
+      "UnityEngine.Transform",
+      "BaseViewModel",
+      "ViewmodelBob",
+      "ViewmodelLower",
+      "IronSights",
+      "Facepunch.Skeleton",
+      "ViewmodelSway"
+    ]
+  },
+  {
     "ShortName": "attack",
     "FullName": "assets/prefabs/weapons/l96/effects/attack.prefab",
     "PrefabId": 2759858355,
@@ -126594,20 +127328,6 @@
       "UnityEngine.CapsuleCollider",
       "NPCNavigator",
       "AnimalBrain"
-    ]
-  },
-  {
-    "ShortName": "chicken.ragdoll",
-    "FullName": "assets/rust.ai/agents/chicken/chicken.ragdoll.prefab",
-    "PrefabId": 3944627492,
-    "Components": [
-      "UnityEngine.Transform",
-      "Ragdoll",
-      "Model",
-      "ArticulatedOccludee",
-      "UnityEngine.Rigidbody",
-      "UnityEngine.FixedJoint",
-      "Facepunch.Skeleton"
     ]
   },
   {

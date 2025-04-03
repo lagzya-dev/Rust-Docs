@@ -1,13 +1,13 @@
 # Rust Data Documentation
 ## Items
-Total items: 1024  
+Total items: 1032  
 
 - [Items Page 1](Items/page_1.md)
 - [Items Page 2](Items/page_2.md)
 - [Items Page 3](Items/page_3.md)
 
 ## Prefabs
-Total prefabs: 13616  
+Total prefabs: 13680  
 
 - [Prefabs Page 1](Prefabs/page_1.md)
 - [Prefabs Page 2](Prefabs/page_2.md)
@@ -39,7 +39,7 @@ Total prefabs: 13616
 - [Prefabs Page 28](Prefabs/page_28.md)
 
 ## Effects
-Total effects: 2188  
+Total effects: 2201  
 
 - [Effects Page 1](Effects/page_1.md)
 - [Effects Page 2](Effects/page_2.md)
@@ -49,4 +49,4 @@ Total effects: 2188
 
 ---
 ### Last Updated
-`2025-04-03 10:22 UTC`
+`2025-04-03 19:25 UTC`

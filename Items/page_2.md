@@ -1,6 +1,8 @@
 # Items (Page 2 of 3)
 | Short Name | Item ID | Components |
 |------------|---------|------------|
+| `deermeat.burned` | -78533081 | `ItemModConsume`<br>`ItemModMenuOption` |
+| `pistol.eoka` | -75944661 | `ItemModEntity` |
 | `legacy bow` | -73195037 | `ItemModEntity` |
 | `gunrack.single.3.horizontal` | -52398594 | `ItemModEntity` |
 | `jacket.snow` | -48090175 | `ItemModWearable` |
@@ -38,6 +40,7 @@
 | `ammo.pistol.fire` | 51984655 |  |
 | `horse.armor.roadsign` | 60528587 | `ItemModAnimalEquipment` |
 | `photo` | 62577426 | `ItemModPhoto` |
+| `wall.external.high.frontier` | 63265850 | `ItemModEntity` |
 | `metal.fragments` | 69511070 | `ItemModXPWhenUsed` |
 | `redidtag` | 70102328 |  |
 | `techparts` | 73681876 |  |
@@ -175,9 +178,11 @@
 | `bottle.vodka` | 755224797 |  |
 | `woodmirror.medium` | 756125481 | `ItemModEntity` |
 | `xmas.present.medium` | 756517185 | `ItemModUpgrade`<br>`ItemModUnwrap` |
+| `wall.external.high.adobe` | 756890702 | `ItemModEntity` |
 | `electric.sirenlight` | 762289806 | `ItemModEntity` |
 | `sofa.pattern` | 782422285 | `ItemModEntity` |
 | `ammo.pistol` | 785728077 |  |
+| `sunken.knife` | 789333045 | `ItemModEntity` |
 | `attire.hide.boots` | 794356786 | `ItemModWearable` |
 | `xmas.tree` | 794443127 | `ItemModEntity` |
 | `torch` | 795236088 | `ItemModEntity` |
@@ -344,6 +349,7 @@
 | `note` | 1414245162 |  |
 | `rose` | 1414245519 |  |
 | `rope` | 1414245522 |  |
+| `horse.costume` | 1420547167 | `ItemModWearable` |
 | `deermeat.raw` | 1422530437 | `ItemModConsume`<br>`ItemModCookable`<br>`ItemModMenuOption`<br>`ItemModFoodSpoiling` |
 | `bucket.water` | 1424075905 | `ItemModEntity`<br>`ItemModContainer`<br>`ItemModMenuOption`<br>`ItemModConsumeContents`<br>`ItemModFishable` |
 | `minihelicopter.repair` | 1426574435 |  |
@@ -360,6 +366,7 @@
 | `jackhammer` | 1488979457 | `ItemModEntity`<br>`ItemModRepair` |
 | `paddle` | 1491189398 | `ItemModEntity` |
 | `frankensteins.monster.02.torso` | 1491753484 | `ItemModWearable` |
+| `discord.trophy` | 1494014226 | `ItemModEntity` |
 | `clone.potato` | 1512054436 | `ItemModEntity` |
 | `harvestingtea` | 1516531815 | `ItemModConsume`<br>`ItemModMenuOption` |
 | `wall.frame.netting` | 1516985844 | `ItemModEntity` |
@@ -494,13 +501,6 @@
 | `chicken.burned` | 1973684065 | `ItemModConsume`<br>`ItemModMenuOption` |
 | `gunrack.single.1.horizontal` | 1973949960 | `ItemModEntity` |
 | `surveycharge` | 1975934948 | `ItemModEntity` |
-| `floor.triangle.grill` | 1983621560 | `ItemModEntity` |
-| `horse.shoes.advanced` | 1989785143 | `ItemModAnimalEquipment` |
-| `trike` | 1991794121 |  |
-| `burlap.trousers` | 1992974553 | `ItemModWearable` |
-| `weapon.mod.extendedmags` | 2005491391 | `ItemModEntity`<br>`ItemModSound` |
-| `xmasdoorwreath` | 2009734114 | `ItemModEntity` |
-| `tarp` | 2019042823 | `ItemModFishable` |
 
 ---
 ### Navigation

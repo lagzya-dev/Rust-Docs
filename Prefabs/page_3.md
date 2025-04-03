@@ -1,6 +1,12 @@
 # Prefabs (Page 3 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `sunflower_seed.worldmodel` | `assets/prefabs/plants/sunflower/sunflower_seed.worldmodel.prefab` | 321342994 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`WorldModel`<br>`ColliderInfo` |
+| `desert_dwelling_single_f` | `assets/prefabs/misc/desertbasedwelling/desert_dwelling_single_f.prefab` | 321391832 | `UnityEngine.Transform`<br>`NPCDwelling` |
+| `roof.triangle.metal.up.right.line` | `assets/prefabs/building core/roof.triangle/roof.triangle.metal.up.right.line.prefab` | 321593832 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `tunnel.double.entrance` | `assets/content/structures/tunnels/tunnel.double.entrance.prefab` | 321652264 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `missionprovider_bandit_b` | `assets/prefabs/npc/bandit/missionproviders/missionprovider_bandit_b.prefab` | 322083179 | `UnityEngine.Transform`<br>`NPCMissionProvider`<br>`PlayerMetabolism`<br>`PlayerInventory`<br>`PlayerEyes`<br>... |
+| `pressbutton_officeelevatorup` | `assets/prefabs/io/electric/switches/pressbutton/pressbutton_officeelevatorup.prefab` | 322122625 | `UnityEngine.Transform`<br>`PressButton_TrainTunnel`<br>`UnityEngine.BoxCollider` |
 | `bbq.item` | `assets/prefabs/deployable/bbq/bbq.item.prefab` | 322576910 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemModEntity`<br>`ItemBlueprint` |
 | `furnacerow_fuel` | `assets/bundled/prefabs/ui/oven/furnacerow_fuel.prefab` | 322659649 | `UnityEngine.RectTransform` |
 | `door.hinged.elevator_door` | `assets/bundled/prefabs/static/door.hinged.elevator_door.prefab` | 323267652 | `UnityEngine.Transform`<br>`UnityEngine.Animator`<br>`Door`<br>`Model` |
@@ -57,6 +63,7 @@
 | `bear-footstep-water` | `assets/rust.ai/agents/bear/footsteps/bear-footstep-water.prefab` | 335361287 | `UnityEngine.Transform` |
 | `female_hairstyle_02` | `assets/prefabs/clothes/hair/hair_style02/female_hairstyle_02.prefab` | 335872198 | `UnityEngine.Transform`<br>`Wearable`<br>`PlayerModelHair` |
 | `halterneck.hide.item` | `assets/prefabs/clothes/halterneck.hide/halterneck.hide.item.prefab` | 335943127 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModWearable`<br>`ItemBlueprint` |
+| `discordtrophy.worldmodel` | `assets/content/props/discord trophy/discordtrophy.worldmodel.prefab` | 336776395 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
 | `engineswitch` | `assets/prefabs/deployable/oil jack/engineswitch.prefab` | 336885727 | `UnityEngine.Transform`<br>`EngineSwitch`<br>`UnityEngine.MeshCollider` |
 | `walkway_a_600x600` | `assets/content/structures/walkways/walkway_a_600x600.prefab` | 337808980 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `skullspike_3` | `assets/prefabs/misc/halloween/skull spikes/skullspike_3.prefab` | 338427426 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
@@ -271,6 +278,7 @@
 | `phys-impact-wood-small-soft` | `assets/bundled/prefabs/fx/impacts/physics/phys-impact-wood-small-soft.prefab` | 402340028 | `UnityEngine.Transform` |
 | `vent_large_fan` | `assets/content/props/vents_large/vent_large_fan.prefab` | 402527648 | `UnityEngine.Transform` |
 | `corridor_bypass_transition_a` | `assets/content/structures/train_tunnels/corridor_prefabs/modules/corridor_bypass_transition_a.prefab` | 402557449 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
+| `sleepingbag.corpse` | `assets/prefabs/deployable/sleeping bag/sleepingbag.corpse.prefab` | 403186932 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`GroundWatch`<br>`SleepingBag`<br>`Model`<br>... |
 | `satchel_charge.viewmodel` | `assets/prefabs/weapons/satchelcharge/satchel_charge.viewmodel.prefab` | 403489603 | `UnityEngine.Transform`<br>`BaseViewModel`<br>`ViewmodelBob`<br>`ViewmodelLower`<br>`Facepunch.Skeleton`<br>... |
 | `head.female.asian01` | `assets/prefabs/clothes/skin/head.female.asian01.prefab` | 404724274 | `UnityEngine.Transform`<br>`Wearable`<br>`PlayerModelHairCap` |
 | `plight.fluorescent.on.cold` | `assets/content/props/light_fixtures/v2/plight.fluorescent.on.cold.prefab` | 405099309 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
@@ -456,6 +464,7 @@
 | `handmade_shell_bullet` | `assets/prefabs/ammo/handmade shell/handmade_shell_bullet.prefab` | 462775332 | `UnityEngine.Transform` |
 | `rocks` | `assets/scenes/prefabs/military tunnels/rocks.prefab` | 463202898 | `UnityEngine.Transform` |
 | `pfx crossbreed blue` | `assets/content/effects/crossbreed/pfx crossbreed blue.prefab` | 464789627 | `UnityEngine.Transform` |
+| `sunkenknife.projectile` | `assets/prefabs/weapons/knife/skins/sunkenknife/sunkenknife.projectile.prefab` | 465698672 | `UnityEngine.Transform`<br>`Projectile` |
 | `water_junk_pile_a_no_planks` | `assets/content/props/water_junk_piles/water_junk_pile_a_no_planks.prefab` | 466128470 | `UnityEngine.Transform` |
 | `ui.dialog.trophy` | `assets/bundled/prefabs/ui/dialogs/ui.dialog.trophy.prefab` | 466360271 | `UnityEngine.RectTransform`<br>`NeedsKeyboard`<br>`UIEscapeCapture`<br>`UITwitchTrophy` |
 | `_base_vehicle_module_item.item` | `assets/prefabs/vehicle/vehiclemoduleitems/_base_vehicle_module_item.item.prefab` | 466403747 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemBlueprint`<br>`Rust.Modular.ItemModVehicleModule` |
@@ -492,15 +501,6 @@
 | `cactus-2` | `assets/bundled/prefabs/autospawn/resource/v3_arid_cactus/cactus-2.prefab` | 475377262 | `UnityEngine.Transform`<br>`Spawnable`<br>`ResourceEntity`<br>`ResourceDispenser` |
 | `icicles_150x100_a` | `assets/prefabs/misc/xmas/staticdecor/icicles_150x100_a.prefab` | 475404915 | `UnityEngine.Transform` |
 | `pfx_ski_sparks` | `assets/content/effects/cars/pfx_ski_sparks.prefab` | 475461977 | `UnityEngine.Transform` |
-| `tube_300` | `assets/bundled/prefabs/autospawn/underwater-lab-segment/tube_300.prefab` | 475570469 | `UnityEngine.Transform`<br>`DungeonBaseLink`<br>`PrefabParameters` |
-| `jump_land_water` | `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/water/jump_land_water.prefab` | 475952703 | `UnityEngine.Transform` |
-| `snowman.item` | `assets/prefabs/misc/xmas/snowman/snowman.item.prefab` | 475983775 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemModEntity`<br>`ItemBlueprint` |
-| `cassette.short.item` | `assets/prefabs/voiceaudio/cassette/cassette.short.item.prefab` | 476659629 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemBlueprint`<br>`ItemModCassette` |
-| `smallbackpack_female.wearable` | `assets/prefabs/misc/smallbackpack/smallbackpack_female.wearable.prefab` | 476726662 | `UnityEngine.Transform`<br>`Wearable`<br>`Facepunch.Skeleton` |
-| `aggro` | `assets/prefabs/npc/scientist/sound/aggro.prefab` | 476787453 | `UnityEngine.Transform`<br>`MusicChangeIntensity` |
-| `cube_tiled_brick_05` | `assets/bundled/prefabs/modding/cubes/tiled/cube_tiled_brick_05.prefab` | 476861868 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
-| `lifeambienceemitter` | `assets/content/sound/ambience/lifeambienceemitter.prefab` | 477050689 | `UnityEngine.Transform` |
-| `ui.dialog.reportbug` | `assets/bundled/prefabs/ui/dialogs/ui.dialog.reportbug.prefab` | 477144803 | `UnityEngine.RectTransform`<br>`NeedsKeyboard`<br>`UIEscapeCapture`<br>`Rust.UI.ReportBug` |
 
 ---
 ### Navigation

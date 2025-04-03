@@ -417,6 +417,7 @@
 | `plantpot.single` | -430416124 | `ItemModEntity` |
 | `knightsarmour.helmet` | -427072335 | `ItemModWearable`<br>`ItemModContainerArmorSlot` |
 | `barricade.medieval` | -424687710 | `ItemModEntity` |
+| `gates.external.high.adobe` | -401905610 | `ItemModEntity` |
 | `lumberjack.hatchet` | -399173933 | `ItemModEntity` |
 | `wolfmeat.raw` | -395377963 | `ItemModConsume`<br>`ItemModCookable`<br>`ItemModMenuOption`<br>`ItemModFoodSpoiling` |
 | `lightupmirror.small` | -389796733 | `ItemModEntity` |
@@ -469,6 +470,7 @@
 | `rustige_egg_c` | -173268131 | `ItemModEntity` |
 | `rustige_egg_a` | -173268129 | `ItemModEntity` |
 | `rustige_egg_f` | -173268128 | `ItemModEntity` |
+| `rustige_egg_g` | -173268127 | `ItemModEntity` |
 | `rustige_egg_d` | -173268126 | `ItemModEntity` |
 | `rustige_egg_e` | -173268125 | `ItemModEntity` |
 | `skull.trophy.table` | -156748077 | `ItemModEntity` |
@@ -499,8 +501,6 @@
 | `revolver.hc` | -92315244 | `ItemModEntity`<br>`ItemModContainer` |
 | `sparkplug1` | -89874794 | `Rust.Modular.ItemModEngineItem` |
 | `scrapmirror.large` | -82758111 | `ItemModEntity` |
-| `deermeat.burned` | -78533081 | `ItemModConsume`<br>`ItemModMenuOption` |
-| `pistol.eoka` | -75944661 | `ItemModEntity` |
 
 ---
 ### Navigation

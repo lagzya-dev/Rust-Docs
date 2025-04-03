@@ -1,6 +1,10 @@
 # Effects (Page 3 of 5)
 | Prefab Name |
 |------------|
+| `assets/prefabs/weapons/flashbang/effects/pullpinstart.prefab` |
+| `assets/prefabs/weapons/flashbang/effects/throw.prefab` |
+| `assets/prefabs/weapons/glockskin/effects/attack.prefab` |
+| `assets/prefabs/weapons/glockskin/effects/attack_muzzlebrake.prefab` |
 | `assets/prefabs/weapons/glockskin/effects/attack_shake.prefab` |
 | `assets/prefabs/weapons/glockskin/effects/attack_shake_ads.prefab` |
 | `assets/prefabs/weapons/glockskin/effects/attack_silenced.prefab` |
@@ -114,6 +118,15 @@
 | `assets/prefabs/weapons/knife/effects/strike_screenshake.prefab` |
 | `assets/prefabs/weapons/knife/effects/strike-soft.prefab` |
 | `assets/prefabs/weapons/knife/effects/throw.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/attack-1.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/attack-2.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/deploy.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/hit.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/holster.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike_screenshake.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike-soft.prefab` |
+| `assets/prefabs/weapons/knife/skins/sunkenknife/effects/throw.prefab` |
 | `assets/prefabs/weapons/l96/effects/attack.prefab` |
 | `assets/prefabs/weapons/l96/effects/attack_muzzlebrake.prefab` |
 | `assets/prefabs/weapons/l96/effects/attack_shake.prefab` |
@@ -488,19 +501,6 @@
 | `assets/prefabs/weapons/stone hatchet/effects/strike-soft.prefab` |
 | `assets/prefabs/weapons/stone hatchet/effects/swing.prefab` |
 | `assets/prefabs/weapons/stone hatchet/effects/throw.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/attack.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/deploy.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/strike.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/strike_screenshake.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/strike-muted.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/strike-soft.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/swing.prefab` |
-| `assets/prefabs/weapons/stone pickaxe/effects/throw.prefab` |
-| `assets/prefabs/weapons/stone spear/effects/2hand_deploy.prefab` |
-| `assets/prefabs/weapons/stone spear/effects/attack.prefab` |
-| `assets/prefabs/weapons/stone spear/effects/deploy.prefab` |
-| `assets/prefabs/weapons/stone spear/effects/holster.prefab` |
-| `assets/prefabs/weapons/stone spear/effects/pull_out.prefab` |
 
 ---
 ### Navigation

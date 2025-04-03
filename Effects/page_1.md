@@ -1,506 +1,506 @@
-# Effects (Page 1 of 2)
+# Effects (Page 1 of 5)
 | Prefab Name |
 |------------|
-| `assets/bundled/prefabs/fx/armor_break.prefab` |
-| `assets/bundled/prefabs/fx/bucket_drop_debris.prefab` |
-| `assets/bundled/prefabs/fx/dig_effect.prefab` |
-| `assets/bundled/prefabs/fx/elevator_arrive.prefab` |
-| `assets/bundled/prefabs/fx/fire_explosion.prefab` |
-| `assets/bundled/prefabs/fx/firebomb.prefab` |
-| `assets/bundled/prefabs/fx/gas_explosion_small.prefab` |
-| `assets/bundled/prefabs/fx/headshot.prefab` |
-| `assets/bundled/prefabs/fx/headshot_2d.prefab` |
-| `assets/bundled/prefabs/fx/hit_notify.prefab` |
-| `assets/bundled/prefabs/fx/invite_notice.prefab` |
-| `assets/bundled/prefabs/fx/item_break.prefab` |
-| `assets/bundled/prefabs/fx/item_unlock.prefab` |
-| `assets/bundled/prefabs/fx/kill_notify.prefab` |
-| `assets/bundled/prefabs/fx/missing.prefab` |
-| `assets/bundled/prefabs/fx/oil_geyser.prefab` |
-| `assets/bundled/prefabs/fx/ore_break.prefab` |
-| `assets/bundled/prefabs/fx/parachute_land.prefab` |
-| `assets/bundled/prefabs/fx/screen_jump.prefab` |
-| `assets/bundled/prefabs/fx/screen_land.prefab` |
-| `assets/bundled/prefabs/fx/smoke_cover_full.prefab` |
-| `assets/bundled/prefabs/fx/smoke_signal.prefab` |
-| `assets/bundled/prefabs/fx/smoke_signal_full.prefab` |
-| `assets/bundled/prefabs/fx/survey_explosion.prefab` |
-| `assets/bundled/prefabs/fx/takedamage_generic.prefab` |
-| `assets/bundled/prefabs/fx/takedamage_hit.prefab` |
-| `assets/bundled/prefabs/fx/takedamage_hit_new.prefab` |
-| `assets/bundled/prefabs/fx/animals/flies/flies_large.prefab` |
-| `assets/bundled/prefabs/fx/animals/flies/flies_looping.prefab` |
-| `assets/bundled/prefabs/fx/animals/flies/flies_medium.prefab` |
-| `assets/bundled/prefabs/fx/animals/flies/flies_small.prefab` |
-| `assets/bundled/prefabs/fx/beartrap/arm.prefab` |
-| `assets/bundled/prefabs/fx/beartrap/fire.prefab` |
-| `assets/bundled/prefabs/fx/build/construction_upgrade_metal.prefab` |
-| `assets/bundled/prefabs/fx/build/construction_upgrade_stone.prefab` |
-| `assets/bundled/prefabs/fx/build/construction_upgrade_toptier.prefab` |
-| `assets/bundled/prefabs/fx/build/construction_upgrade_wood.prefab` |
-| `assets/bundled/prefabs/fx/build/frame_place.prefab` |
-| `assets/bundled/prefabs/fx/build/promote_metal.prefab` |
-| `assets/bundled/prefabs/fx/build/promote_stone.prefab` |
-| `assets/bundled/prefabs/fx/build/promote_toptier.prefab` |
-| `assets/bundled/prefabs/fx/build/promote_wood.prefab` |
-| `assets/bundled/prefabs/fx/build/repair.prefab` |
-| `assets/bundled/prefabs/fx/build/repair_failed.prefab` |
-| `assets/bundled/prefabs/fx/build/repair_full.prefab` |
-| `assets/bundled/prefabs/fx/build/repair_full_metal.prefab` |
-| `assets/bundled/prefabs/fx/build/repair_metal.prefab` |
-| `assets/bundled/prefabs/fx/building/fort_metal_gib.prefab` |
-| `assets/bundled/prefabs/fx/building/metal_sheet_gib.prefab` |
-| `assets/bundled/prefabs/fx/building/stone_gib.prefab` |
-| `assets/bundled/prefabs/fx/building/thatch_gib.prefab` |
-| `assets/bundled/prefabs/fx/building/wood_gib.prefab` |
-| `assets/bundled/prefabs/fx/collect/collect fuel barrel.prefab` |
-| `assets/bundled/prefabs/fx/collect/collect mushroom.prefab` |
-| `assets/bundled/prefabs/fx/collect/collect plant.prefab` |
-| `assets/bundled/prefabs/fx/collect/collect stone.prefab` |
-| `assets/bundled/prefabs/fx/collect/collect stump.prefab` |
-| `assets/bundled/prefabs/fx/decals/blood/decal_blood_splatter_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blood/decal_blood_splatter_02.prefab` |
-| `assets/bundled/prefabs/fx/decals/blood/decal_blood_splatter_03.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/dirt/decal_blunt_dirt_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/forest/decal_blunt_forest_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/glass/decal_blunt_glass.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/glass_small/decal_blunt_glass_small.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/grass/decal_blunt_grass_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/metalore/decal_blunt_metalore_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/path/decal_blunt_path_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/rock/decal_blunt_rock_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/sand/decal_blunt_sand_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/snow/decal_blunt_snow_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/tundra/decal_blunt_tundra_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/blunt/wood/wood 1.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/concrete/decal_bullet_concrete_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/concrete/decal_bullet_concrete_02.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/concrete/decal_bullet_concrete_03.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/concrete/decal_bullet_concrete_04.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/dirt/decal_bullet_dirt_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/flesh/decal_bullet_flesh_entry_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/flesh/decal_bullet_flesh_exit_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/forest/decal_bullet_forest_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/gingerbread/decal_bullet_gingerbread_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass2.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass3.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/glass_small/decal_bullet_glass_small.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/glass_small/decal_bullet_glass2_small.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/glass_small/decal_bullet_glass3_small.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/grass/decal_bullet_grass_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/metal/decal_bullet_metal_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/metal/decal_bullet_metal_02.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/metal/decal_bullet_metal_03.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/metalore/decal_bullet_metalore_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/path/decal_bullet_road_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/rock/decal_bullet_rock.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/sand/decal_bullet_sand_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/sandbag/decal_bullet_sandbag_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/snow/decal_bullet_snow_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/tundra/decal_bullet_tundra.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/wood/decal_bullet_wood_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/wood/decal_bullet_wood_02.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/wood/decal_bullet_wood_03.prefab` |
-| `assets/bundled/prefabs/fx/decals/bullet/wood/decal_bullet_wood_04.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/dirt/decal_footprint_human_bare_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/dirt/decal_footprint_human_bare_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/forest/decal_footprint_human_bare_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/forest/decal_footprint_human_bare_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/grass/decal_footprint_human_bare_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/grass/decal_footprint_human_bare_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/sand/decal_footprint_human_sand_bare_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/sand/decal_footprint_human_sand_bare_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/snow/decal_footprint_human_bare_snow_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/snow/decal_footprint_human_snow_bare_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/tundra/decal_footprint_human_bare_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/bare/tundra/decal_footprint_human_bare_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/dirt/decal_footprint_human_boot_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/dirt/decal_footprint_human_boot_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/forest/decal_footprint_human_boot_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/forest/decal_footprint_human_boot_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/grass/decal_footprint_human_boot_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/grass/decal_footprint_human_boot_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/sand/decal_footprint_human_sand_boot_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/sand/decal_footprint_human_sand_boot_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/snow/decal_footprint_human_snow_boot_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/snow/decal_footprint_human_snow_boot_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/tundra/decal_footprint_human_boot_left.prefab` |
-| `assets/bundled/prefabs/fx/decals/footstep/boot/tundra/decal_footprint_human_boot_right.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/dirt/decal_slash_dirt_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/forest/decal_slash_forest_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/glass/decal_slash_glass.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/glass_small/decal_slash_glass_small.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/grass/decal_slash_grass_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/metalore/decal_slash_metalore_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/path/decal_slash_path_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/rock/decal_slash_rock_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/sand/decal_slash_sand_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/snow/decal_slash_snow_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/tundra/decal_slash_tundra_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/slash/wood/wood 1.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/concrete/decal_stab_concrete_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/concrete/decal_stab_concrete_02.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/concrete/decal_stab_concrete_03.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/concrete/decal_stab_concrete_04.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/dirt/decal_stab_dirt_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/flesh/decal_stab_flesh_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/forest/decal_stab_forest_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/glass/decal_stab_glass.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/glass_small/decal_stab_glass_small.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/grass/decal_stab_grass_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/metalore/decal_stab_metalore_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/path/decal_stab_path_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/rock/decal_stab_rock_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/sand/decal_stab_sand_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/snow/decal_stab_snow_01.prefab` |
-| `assets/bundled/prefabs/fx/decals/stab/tundra/decal_stab_snow_01.prefab` |
-| `assets/bundled/prefabs/fx/displacement/player/grass/player_displacement.prefab` |
-| `assets/bundled/prefabs/fx/door/barricade_spawn.prefab` |
-| `assets/bundled/prefabs/fx/entities/beehive.natural/beehive-natural-impact.prefab` |
-| `assets/bundled/prefabs/fx/entities/loot_barrel/gib.prefab` |
-| `assets/bundled/prefabs/fx/entities/loot_barrel/impact.prefab` |
-| `assets/bundled/prefabs/fx/entities/pumpkin/gib.prefab` |
-| `assets/bundled/prefabs/fx/entities/tree/tree-impact.prefab` |
-| `assets/bundled/prefabs/fx/explosions/explosion_01.prefab` |
-| `assets/bundled/prefabs/fx/explosions/explosion_02.prefab` |
-| `assets/bundled/prefabs/fx/explosions/explosion_03.prefab` |
-| `assets/bundled/prefabs/fx/explosions/explosion_core.prefab` |
-| `assets/bundled/prefabs/fx/explosions/explosion_core_flash.prefab` |
-| `assets/bundled/prefabs/fx/explosions/water_bomb.prefab` |
-| `assets/bundled/prefabs/fx/fire/fire_v2.prefab` |
-| `assets/bundled/prefabs/fx/fire/fire_v3.prefab` |
-| `assets/bundled/prefabs/fx/fire/oilbarrel-fire.prefab` |
-| `assets/bundled/prefabs/fx/gestures/cameratakescreenshot.prefab` |
-| `assets/bundled/prefabs/fx/gestures/cut_meat.prefab` |
-| `assets/bundled/prefabs/fx/gestures/drink_generic.prefab` |
-| `assets/bundled/prefabs/fx/gestures/drink_tea.prefab` |
-| `assets/bundled/prefabs/fx/gestures/drink_vomit.prefab` |
-| `assets/bundled/prefabs/fx/gestures/eat_candybar.prefab` |
-| `assets/bundled/prefabs/fx/gestures/eat_celery.prefab` |
-| `assets/bundled/prefabs/fx/gestures/eat_chewy_meat.prefab` |
-| `assets/bundled/prefabs/fx/gestures/eat_chips.prefab` |
-| `assets/bundled/prefabs/fx/gestures/eat_generic.prefab` |
-| `assets/bundled/prefabs/fx/gestures/eat_soft.prefab` |
-| `assets/bundled/prefabs/fx/gestures/lick.prefab` |
-| `assets/bundled/prefabs/fx/gestures/take_pills.prefab` |
-| `assets/bundled/prefabs/fx/impacts/additive/explosion.prefab` |
-| `assets/bundled/prefabs/fx/impacts/additive/fire.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_blunt_white.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_bullet_white.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_slash_white.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_stab_white.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/cloth/cloth1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/clothflesh/clothflesh1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/concrete/concrete1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/dirt/dirt1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/flesh/fleshbloodimpact.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/generic/generic1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/generic/genericdig.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/generic/genericplacement.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/gingerbread/impact_blunt_gingerbread.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/glass/glass1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/glass_small/glass1_small.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/grass/grass1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/gravel/slash_rock_01.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/metal/metal1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/metalore/slash_metalore_01.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/rock/slash_rock_01.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/sand/sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/snow/snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/stones/slash_rock_01.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/water/water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/blunt/wood/wood1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/cloth/cloth1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/clothflesh/clothflesh1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/concrete/concrete1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/dirt/dirt1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/flesh/fleshbloodimpact.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/forest/forest1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/generic/generic1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/generic/generic2.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/generic/generic3.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/generic/generic4.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/gingerbread/impact_bullet_gingerbread.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/glass/glass1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/glass_small/glass1_small.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/grass/grass1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/gravel/bullet_impact_rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/metal/metal1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/metalore/bullet_impact_metalore.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/path/path1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/rock/bullet_impact_rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/sand/sand1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/sandbag/sand_bag_impact.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/snow/snow1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/stones/bullet_impact_rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/tundra/bullet_impact_tundra.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/water/water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/bullet/wood/wood1.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/footstepwatersplashvfx_nester.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/cloth/footstep-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/concrete/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/dirt/footstep-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/forest/footstep-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/generic/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/grass/footstep-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/gravel/footstep-gravel.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/metal/footstep-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/metalore/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/rock/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/sand/footstep-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/snow/human_footstep_snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/stones/footstep-stones.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/water/boot_footstep_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/barefoot/wood/footstep-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/cloth/footstep-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/concrete/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/dirt/footstep-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/forest/footstep-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/generic/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/grass/footstep-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/gravel/footstep-gravel.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/metal/footstep-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/metalore/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/rock/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/sand/footstep-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/snow/human_footstep_snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/stones/footstep-stones.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/water/boot_footstep_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/boots/wood/footstep-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/cloth/footstep-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/concrete/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/dirt/footstep-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/forest/footstep-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/generic/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/grass/footstep-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/gravel/footstep-gravel.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/metal/footstep-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/metalore/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/rock/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/sand/footstep-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/snow/human_footstep_snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/stones/footstep-stones.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/water/boot_footstep_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/burlap/wood/footstep-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/crouch/water/boot_footstep_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/cloth/footstep-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/concrete/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/dirt/footstep-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/forest/footstep-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/generic/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/grass/footstep-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/gravel/footstep-gravel.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/metal/footstep-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/metalore/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/rock/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/sand/footstep-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/snow/human_footstep_snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/stones/footstep-stones.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/water/boot_footstep_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/gingerbread/wood/footstep-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/cloth/footstep-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/concrete/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/dirt/footstep-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/forest/footstep-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/generic/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/grass/footstep-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/gravel/footstep-gravel.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/metal/footstep-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/metalore/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/rock/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/sand/footstep-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/snow/human_footstep_snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/stones/footstep-stones.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/water/boot_footstep_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/hide/wood/footstep-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/cloth/footstep-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/concrete/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/dirt/footstep-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/forest/footstep-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/generic/footstep-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/grass/footstep-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/gravel/footstep-gravel.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/metal/footstep-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/metalore/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/rock/footstep-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/sand/footstep-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/snow/human_footstep_snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/stones/footstep-stones.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/water/boot_footstep_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/wood/footstep-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/gravel/jump-land-gravel.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/stones/jump-land-stones.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/barefoot/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/boots/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/burlap/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/hide/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-land/rubberboots/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/burlap/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/hide/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/concrete/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/dirt/jump-land-dirt.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-meat-hard.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-meat-med.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-meat-soft.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-can-hard.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-can-med.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-can-soft.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-hollow-hard.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-hollow-med.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-hollow-soft.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-medium-rattley-hard.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-medium-rattley-med.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-medium-rattley-soft.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-thin-hollow-hard.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-thin-hollow-med.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-metal-thin-hollow-soft.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-stone-hard.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-stone-med.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-stone-soft.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-tool-hard.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-tool-med.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-tool-soft.prefab` |
-| `assets/bundled/prefabs/fx/impacts/physics/phys-impact-wood-hard.prefab` |
+| `assets/content/effects/brzone/brzone.prefab` |
+| `assets/content/effects/candle.prefab` |
+| `assets/content/effects/cars/pfx_car_collision.prefab` |
+| `assets/content/effects/cars/pfx_car_damage_light.prefab` |
+| `assets/content/effects/cars/pfx_car_damage_medium.prefab` |
+| `assets/content/effects/cars/pfx_car_damage_severe.prefab` |
+| `assets/content/effects/cars/pfx_car_destroyed.prefab` |
+| `assets/content/effects/cars/pfx_car_exhaust.prefab` |
+| `assets/content/effects/cars/pfx_motorbike_spin_asphalt.prefab` |
+| `assets/content/effects/cars/pfx_motorbike_spin_dirt.prefab` |
+| `assets/content/effects/cars/pfx_motorbike_spin_sand.prefab` |
+| `assets/content/effects/cars/pfx_pedalbike_spin_dirt.prefab` |
+| `assets/content/effects/cars/pfx_pedalbike_spin_snow.prefab` |
+| `assets/content/effects/cars/pfx_pedalbike_trail_dirt.prefab` |
+| `assets/content/effects/cars/pfx_pedalbike_trail_sand.prefab` |
+| `assets/content/effects/cars/pfx_pedalbike_trail_snow.prefab` |
+| `assets/content/effects/cars/pfx_pedalbike_trail_water.prefab` |
+| `assets/content/effects/cars/pfx_ski_sparks.prefab` |
+| `assets/content/effects/cars/pfx_ski_trail_sand.prefab` |
+| `assets/content/effects/cars/pfx_tread_spin_sand.prefab` |
+| `assets/content/effects/cars/pfx_tread_trail_sand.prefab` |
+| `assets/content/effects/cars/pfx_wheel_spin_asphalt.prefab` |
+| `assets/content/effects/cars/pfx_wheel_spin_dirt.prefab` |
+| `assets/content/effects/cars/pfx_wheel_spin_sand.prefab` |
+| `assets/content/effects/cars/pfx_wheel_spin_snow.prefab` |
+| `assets/content/effects/cars/pfx_wheel_trail_dirt.prefab` |
+| `assets/content/effects/cars/pfx_wheel_trail_sand.prefab` |
+| `assets/content/effects/cars/pfx_wheel_trail_snow.prefab` |
+| `assets/content/effects/cars/pfx_wheel_trail_water.prefab` |
+| `assets/content/effects/cinema/shield impact metal.prefab` |
+| `assets/content/effects/cinema/shield impact wood.prefab` |
+| `assets/content/effects/crossbreed/pfx crossbreed blue.prefab` |
+| `assets/content/effects/crossbreed/pfx crossbreed plain.prefab` |
+| `assets/content/effects/crossbreed/pfx crossbreed yellow.prefab` |
+| `assets/content/effects/electrical/fx-fusebox-sparks.prefab` |
+| `assets/content/effects/explosions/effects - explosion.prefab` |
+| `assets/content/effects/explosions/explosion flame ballista incendiary.prefab` |
+| `assets/content/effects/explosions/explosion flame.prefab` |
+| `assets/content/effects/explosions/explosion grenade.prefab` |
+| `assets/content/effects/explosions/explosion hammerhead.prefab` |
+| `assets/content/effects/explosions/explosion landmine.prefab` |
+| `assets/content/effects/explosions/explosion large catapult canisters.prefab` |
+| `assets/content/effects/explosions/explosion large.prefab` |
+| `assets/content/effects/explosions/explosion medium.prefab` |
+| `assets/content/effects/explosions/explosion piercing nopen.prefab` |
+| `assets/content/effects/explosions/explosion piercing.prefab` |
+| `assets/content/effects/explosions/explosion pitchfork.prefab` |
+| `assets/content/effects/explosions/explosion small.prefab` |
+| `assets/content/effects/explosions/explosion wall large.prefab` |
+| `assets/content/effects/explosions/explosion wall medium.prefab` |
+| `assets/content/effects/explosions/explosion/prefebs/explosion_3.prefab` |
+| `assets/content/effects/explosions/explosion/prefebs/explosion_6.prefab` |
+| `assets/content/effects/explosions/explosion/prefebs/explosion_7.prefab` |
+| `assets/content/effects/explosions/explosion/prefebs/explosion_8.prefab` |
+| `assets/content/effects/explosions/fx orientator.prefab` |
+| `assets/content/effects/explosions/tests/fire/pfx_campfire.prefab` |
+| `assets/content/effects/explosions/tests/rfo debug particle.prefab` |
+| `assets/content/effects/explosions/underwater/explosion_underwater_large.prefab` |
+| `assets/content/effects/explosions/underwater/explosion_underwater_medium.prefab` |
+| `assets/content/effects/explosions/underwater/explosion_underwater_small.prefab` |
+| `assets/content/effects/explosions/underwater/explosion_underwater_surface_large.prefab` |
+| `assets/content/effects/explosions/underwater/explosion_underwater_surface_medium.prefab` |
+| `assets/content/effects/explosions/underwater/explosion_underwater_surface_small.prefab` |
+| `assets/content/effects/fire/fire arrow flame.prefab` |
+| `assets/content/effects/fire/pfx_ground_flame_v2.prefab` |
+| `assets/content/effects/fire/pfx_ground_flame_v2_small.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks boomer blue v2.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks boomer golden xl v2.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks boomer green v2.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks boomer orange v2.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks boomer red v2.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks boomer violet v2.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks roman candle.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks volcano red.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks volcano violet.prefab` |
+| `assets/content/effects/fireworks/pfx fireworks volcano.prefab` |
+| `assets/content/effects/fireworks/pfx roman candle projectile blue.prefab` |
+| `assets/content/effects/fireworks/pfx roman candle projectile green.prefab` |
+| `assets/content/effects/fireworks/pfx roman candle projectile red.prefab` |
+| `assets/content/effects/fireworks/pfx roman candle projectile violet.prefab` |
+| `assets/content/effects/fumes/pfx_chimney_dark.prefab` |
+| `assets/content/effects/fumes/pfx_steam_blast.prefab` |
+| `assets/content/effects/fumes/pfx_vent_fumes.prefab` |
+| `assets/content/effects/liquid/assets_bundled_prefabs_world_underwater.prefab.prefab` |
+| `assets/content/effects/liquid/pfx_sprinkler.prefab` |
+| `assets/content/effects/materials/fog/fog_wall.prefab` |
+| `assets/content/effects/materials/fog/height_fog.prefab` |
+| `assets/content/effects/mountainfume/mountainfog.prefab` |
+| `assets/content/effects/mountainfume/mountainfumes.prefab` |
+| `assets/content/effects/muzzleflashes/muzzleflash_lightex.prefab` |
+| `assets/content/effects/muzzleflashes/muzzleflash_lightex_large.prefab` |
+| `assets/content/effects/muzzleflashes/muzzleflash_lightex_tiny.prefab` |
+| `assets/content/effects/muzzleflashes/other/eoka_attack.prefab` |
+| `assets/content/effects/muzzleflashes/other/eoka_flint_spark.prefab` |
+| `assets/content/effects/muzzleflashes/other/muzzle_flash_minigun.prefab` |
+| `assets/content/effects/muzzleflashes/other/muzzle_flash_snowballgun.prefab` |
+| `assets/content/effects/muzzleflashes/other/projectilefx_snowballgun.prefab` |
+| `assets/content/effects/muzzleflashes/other/projectilefx_snowballgun_impact.prefab` |
+| `assets/content/effects/muzzleflashes/pistol/muzzle_flash_nailgun.prefab` |
+| `assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol.prefab` |
+| `assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_braked.prefab` |
+| `assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_large.prefab` |
+| `assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_powdery.prefab` |
+| `assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_silenced.prefab` |
+| `assets/content/effects/muzzleflashes/pistol/shell_eject_pistol.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_big.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_braked.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_braked_l96.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_braked_lr300.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_braked_semi.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_l96.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_quad.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_quad_m39.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_silenced.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle_silenced_highpowered.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/shell_eject_rifle.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/shell_eject_rifle_bolt.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/shell_eject_rifle_m249.prefab` |
+| `assets/content/effects/muzzleflashes/rifle/shell_eject_rifle_m39.prefab` |
+| `assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_braked.prefab` |
+| `assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_narrow.prefab` |
+| `assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_powdery.prefab` |
+| `assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_silenced.prefab` |
+| `assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_wide.prefab` |
+| `assets/content/effects/muzzleflashes/shotgun/shell_eject_shotgun.prefab` |
+| `assets/content/effects/muzzleflashes/smg/muzzle_flash_smg.prefab` |
+| `assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_boosted.prefab` |
+| `assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_braked.prefab` |
+| `assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_silenced.prefab` |
+| `assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_twin.prefab` |
+| `assets/content/effects/muzzleflashes/smg/shell_eject_smg.prefab` |
+| `assets/content/effects/objects/decal_box.prefab` |
+| `assets/content/effects/ocean visibility gizmo.prefab` |
+| `assets/content/effects/rotorwashparticles_large.prefab` |
+| `assets/content/effects/rotorwashparticles_small.prefab` |
+| `assets/content/effects/water/bullet_trails_underwater_01.prefab` |
+| `assets/content/effects/weather/dust/vfx_dust_cinematic_volume.prefab` |
+| `assets/content/effects/weather/lightning/lightningbolt.prefab` |
+| `assets/content/effects/weather/pfx_auroras.prefab` |
+| `assets/content/effects/weather/pfx_lightning_medium.prefab` |
+| `assets/content/effects/weather/pfx_lightning_mild.prefab` |
+| `assets/content/effects/weather/pfx_lightning_strong.prefab` |
+| `assets/content/effects/weather/pfx_lightningstorm_looptest.prefab` |
+| `assets/content/effects/weather/pfx_rain.prefab` |
+| `assets/content/effects/weather/pfx_rain_stormy.prefab` |
+| `assets/content/effects/weather/pfx_rainbow.prefab` |
+| `assets/content/effects/weather/pfx_snow.prefab` |
+| `assets/content/effects/weather/pfx_snow_stormy.prefab` |
+| `assets/content/effects/weather/sandstorm/pfx_sandstorm2.prefab` |
+| `assets/content/effects/wip/frosty_breath_fx.prefab` |
+| `assets/content/effects/wip/muzzle_smoke.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_bonus_effect.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_fall.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_fall_impact.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_impact.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_impact_mask.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_impact_small.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_marking.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_marking_nospherecast.prefab` |
+| `assets/content/nature/treesprefabs/trees/effects/tree_marking_spawn.prefab` |
+| `assets/content/nexus/ferry/effects/nexus-ferry-departure-horn.prefab` |
+| `assets/content/props/fog machine/effects/cascade_smoke.prefab` |
+| `assets/content/props/fog machine/effects/emission.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-end.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-start.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-open-end.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-open-start.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-close-end.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-close-start.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-open-end.prefab` |
+| `assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-open-start.prefab` |
+| `assets/content/structures/excavator/prefabs/effects/enginerumble.prefab` |
+| `assets/content/structures/excavator/prefabs/effects/rockvibration.prefab` |
+| `assets/content/structures/office_interiors/effects/vent-door-close.prefab` |
+| `assets/content/structures/office_interiors/effects/vent-door-open.prefab` |
+| `assets/content/vehicles/attackhelicopter/effects/attack-helicopter-explosion.prefab` |
+| `assets/content/vehicles/attackhelicopter/effects/lighting fx attack helicopter.prefab` |
+| `assets/content/vehicles/attackhelicopter/effects/pfx_flares_attackhelicopter.prefab` |
+| `assets/content/vehicles/attackhelicopter/effects/pfx_rocketpod.prefab` |
+| `assets/content/vehicles/attackhelicopter/effects/pfx_rocketpod_rocket.prefab` |
+| `assets/content/vehicles/bikes/motorbike/effects/damageeffects motorbike lights.prefab` |
+| `assets/content/vehicles/bikes/motorbike/effects/damageeffects motorbike.prefab` |
+| `assets/content/vehicles/bikes/motorbike/effects/exhaust motorbike.prefab` |
+| `assets/content/vehicles/bikes/motorbike/effects/lights on.prefab` |
+| `assets/content/vehicles/boats/effects/small-boat-push-land.prefab` |
+| `assets/content/vehicles/boats/effects/small-boat-push-water.prefab` |
+| `assets/content/vehicles/boats/effects/splash.prefab` |
+| `assets/content/vehicles/boats/effects/splashloop.prefab` |
+| `assets/content/vehicles/boats/kayak/effects/kayak-paddle.prefab` |
+| `assets/content/vehicles/boats/kayak/effects/kayak-push-land.prefab` |
+| `assets/content/vehicles/boats/kayak/effects/kayak-push-water.prefab` |
+| `assets/content/vehicles/boats/tugboat/effects/tugboat_damage_fx.prefab` |
+| `assets/content/vehicles/crane_magnet/effects/exhaust.prefab` |
+| `assets/content/vehicles/crane_magnet/effects/lightgroup arm.prefab` |
+| `assets/content/vehicles/crane_magnet/effects/lightgroup body.prefab` |
+| `assets/content/vehicles/crane_magnet/effects/magnetdust.prefab` |
+| `assets/content/vehicles/crane_magnet/effects/refract.prefab` |
+| `assets/content/vehicles/dpv/effects/dpv-deploy.prefab` |
+| `assets/content/vehicles/horse/effects/dusttrail.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_forest.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_grawss.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_sand.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_snow.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_tundre.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-concrete.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-dirt.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-grass.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-sand.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-snow.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-water.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-deep.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-deep-slosh.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-swimming.prefab` |
+| `assets/content/vehicles/horse/effects/footsteps/horse-footstep-wood.prefab` |
+| `assets/content/vehicles/horse/effects/horse-attach.prefab` |
+| `assets/content/vehicles/horse/effects/horsecollisioneffect.prefab` |
+| `assets/content/vehicles/horse/effects/horse-detach.prefab` |
+| `assets/content/vehicles/minicopter/effects/mincopter_explosion.prefab` |
+| `assets/content/vehicles/minicopter/effects/minicopter-wheel-impact.prefab` |
+| `assets/content/vehicles/mlrs/effects/cabinlighting.prefab` |
+| `assets/content/vehicles/mlrs/effects/pfx_airburst.prefab` |
+| `assets/content/vehicles/mlrs/effects/pfx_mlrs_backfire.prefab` |
+| `assets/content/vehicles/mlrs/effects/pfx_mlrs_broken_down.prefab` |
+| `assets/content/vehicles/mlrs/effects/pfx_mlrs_rocket_explosion_air.prefab` |
+| `assets/content/vehicles/mlrs/effects/pfx_mlrs_rocket_explosion_ground.prefab` |
+| `assets/content/vehicles/mlrs/effects/pfx_mlrs_rocket_thrust.prefab` |
+| `assets/content/vehicles/mlrs/effects/rearcamera.prefab` |
+| `assets/content/vehicles/modularcar/effects/wheel-impact.prefab` |
+| `assets/content/vehicles/scrap heli carrier/effects/debris_effect.prefab` |
+| `assets/content/vehicles/scrap heli carrier/effects/scrap-transport-heli-explosion.prefab` |
+| `assets/content/vehicles/scrap heli carrier/effects/wheel-impact.prefab` |
+| `assets/content/vehicles/siegeweapons/ballista/effects/ballista.bolt_impact.prefab` |
+| `assets/content/vehicles/siegeweapons/ballista/effects/ballista_debris_effect.prefab` |
+| `assets/content/vehicles/siegeweapons/ballista/effects/ballista_fire.prefab` |
+| `assets/content/vehicles/siegeweapons/ballista/effects/ballista-construction-finish.prefab` |
+| `assets/content/vehicles/siegeweapons/ballista/effects/ballista-construction-repair.prefab` |
+| `assets/content/vehicles/siegeweapons/ballista/effects/ballista-deploy.prefab` |
+| `assets/content/vehicles/siegeweapons/ballista/effects/flame ammo ballista.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering ram arm damageeffects.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering ram damageeffects.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering ram door dirt.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering ram door sparks.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering ram exhaust.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering ram fire.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering ram lights on.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_debris_effect.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_hit_metal.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_hit_stone.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_hit_wood.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-construction-finish.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-construction-repair.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-deploy.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-close-end.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-close-start.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-open-end.prefab` |
+| `assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-open-start.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion_mid.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion_small.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/catapult fire.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/catapult_debris_effect.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/catapult-construction-finish.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/catapult-construction-repair.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/catapult-deploy.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/flame ammo catapult airtime.prefab` |
+| `assets/content/vehicles/siegeweapons/catapult/effects/flame ammo catapult.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siegetower_debris_effect.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-close-end.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-close-start.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-open-end.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-open-start.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-construction-finish.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-construction-repair.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-deploy.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-close-end.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-close-start.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-open-end.prefab` |
+| `assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-open-start.prefab` |
+| `assets/content/vehicles/snowmobiles/effects/pfx_wheel_spin_dirt_tread v2.prefab` |
+| `assets/content/vehicles/snowmobiles/effects/pfx_wheel_trail_dirt_r v2.prefab` |
+| `assets/content/vehicles/snowmobiles/effects/pfx_wheel_trail_dirt_tread.prefab` |
+| `assets/content/vehicles/snowmobiles/effects/rsfrontlight (bp).prefab` |
+| `assets/content/vehicles/snowmobiles/effects/rsrearlight (bp).prefab` |
+| `assets/content/vehicles/submarine/effects/effects submarineduo.prefab` |
+| `assets/content/vehicles/submarine/effects/effects submarinesolo.prefab` |
+| `assets/content/vehicles/submarine/effects/materials/modeleffects.prefab` |
+| `assets/content/vehicles/submarine/effects/submarine collision effect abovewater.prefab` |
+| `assets/content/vehicles/submarine/effects/submarine collision effect underwater.prefab` |
+| `assets/content/vehicles/submarine/effects/submarine-destroy.prefab` |
+| `assets/content/vehicles/trains/workcart/effects/pfx_workcart_couple.prefab` |
+| `assets/content/vehicles/trains/workcart/effects/pfx_workcart_damage_light.prefab` |
+| `assets/content/vehicles/trains/workcart/effects/pfx_workcart_damage_medium.prefab` |
+| `assets/content/vehicles/trains/workcart/effects/pfx_workcart_damage_severe.prefab` |
+| `assets/content/vehicles/trains/workcart/effects/pfx_workcart_engine_trouble.prefab` |
+| `assets/content/vehicles/trains/workcart/effects/pfx_workcart_friction_sparks.prefab` |
+| `assets/content/weapons/_gestures/effects/drink.prefab` |
+| `assets/content/weapons/_gestures/effects/eat_1hand_celery.prefab` |
+| `assets/content/weapons/_gestures/effects/eat_2hand_chewymeat.prefab` |
+| `assets/prefabs/ammo/40mmgrenade/effects/40mm_he_explosion.prefab` |
+| `assets/prefabs/ammo/rocket/effects/pfx_rockettrail.prefab` |
+| `assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-end.prefab` |
+| `assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-start.prefab` |
+| `assets/prefabs/building/door.double.hinged/effects/door-double-metal-open-start.prefab` |
+| `assets/prefabs/building/door.double.hinged/effects/door-double-wood-close-end.prefab` |
+| `assets/prefabs/building/door.double.hinged/effects/door-double-wood-close-start.prefab` |
+| `assets/prefabs/building/door.double.hinged/effects/door-double-wood-open-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-metal-close-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-metal-close-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-metal-deploy.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-metal-impact.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-metal-knock.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-metal-open-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-metal-open-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-wood-close-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-wood-close-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-wood-deploy.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-wood-impact.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-wood-knock.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-wood-open-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/door-wood-open-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-metal-close-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-metal-close-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-metal-open-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-metal-open-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-wood-close-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-wood-close-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-wood-open-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/gate-external-wood-open-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/vault-metal-close-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/vault-metal-close-start.prefab` |
+| `assets/prefabs/building/door.hinged/effects/vault-metal-open-end.prefab` |
+| `assets/prefabs/building/door.hinged/effects/vault-metal-open-start.prefab` |
+| `assets/prefabs/building/floor.grill/effects/floor-grill-deploy.prefab` |
+| `assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-close-end.prefab` |
+| `assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-close-start.prefab` |
+| `assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-deploy.prefab` |
+| `assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-open-start.prefab` |
+| `assets/prefabs/building/ladder.wall.wood/effects/wood-ladder-deploy.prefab` |
+| `assets/prefabs/building/legacy.shelter.wood/effects/legacy-shelter-deploy.prefab` |
+| `assets/prefabs/building/wall.external.high.stone/effects/wall-external-stone-deploy.prefab` |
+| `assets/prefabs/building/wall.external.high.wood/effects/wall-external-wood-deploy.prefab` |
+| `assets/prefabs/building/wall.frame.cell/effects/cell-wall-door-deploy.prefab` |
+| `assets/prefabs/building/wall.frame.cell/effects/door-cell-metal-close-end.prefab` |
+| `assets/prefabs/building/wall.frame.cell/effects/door-cell-metal-close-start.prefab` |
+| `assets/prefabs/building/wall.frame.cell/effects/door-cell-metal-open-start.prefab` |
+| `assets/prefabs/building/wall.frame.fence/effects/chain-link-fence-deploy.prefab` |
+| `assets/prefabs/building/wall.frame.fence/effects/chain-link-impact.prefab` |
+| `assets/prefabs/building/wall.frame.fence/effects/door-fence-metal-close-end.prefab` |
+| `assets/prefabs/building/wall.frame.fence/effects/door-fence-metal-close-start.prefab` |
+| `assets/prefabs/building/wall.frame.fence/effects/door-fence-metal-open-end.prefab` |
+| `assets/prefabs/building/wall.frame.fence/effects/door-fence-metal-open-start.prefab` |
+| `assets/prefabs/building/wall.frame.garagedoor/effects/garagedoor.movement.begin.prefab` |
+| `assets/prefabs/building/wall.frame.garagedoor/effects/garagedoor.movement.finish.close.prefab` |
+| `assets/prefabs/building/wall.frame.garagedoor/effects/garagedoor.movement.finish.open.prefab` |
+| `assets/prefabs/building/wall.frame.netting/effects/netting-deploy.prefab` |
+| `assets/prefabs/building/wall.frame.shopfront/effects/door-small-wood-close-end.prefab` |
+| `assets/prefabs/building/wall.frame.shopfront/effects/door-small-wood-close-start.prefab` |
+| `assets/prefabs/building/wall.frame.shopfront/effects/door-small-wood-open-end.prefab` |
+| `assets/prefabs/building/wall.frame.shopfront/effects/door-small-wood-open-start.prefab` |
+| `assets/prefabs/building/wall.frame.shopfront/effects/metal_transaction_complete.prefab` |
+| `assets/prefabs/building/wall.frame.shopfront/effects/shop-front-deploy.prefab` |
+| `assets/prefabs/building/wall.window.bars/effects/window-bars-metal-deploy.prefab` |
+| `assets/prefabs/building/wall.window.bars/effects/window-bars-wood-deploy.prefab` |
+| `assets/prefabs/building/wall.window.embrasure/effects/window-embrasure-deploy.prefab` |
+| `assets/prefabs/building/wall.window.reinforcedglass/effects/reinforced-glass-window-deploy.prefab` |
+| `assets/prefabs/building/wall.window.shutter/effects/shutters-wood-close-end.prefab` |
+| `assets/prefabs/building/wall.window.shutter/effects/shutters-wood-close-start.prefab` |
+| `assets/prefabs/building/wall.window.shutter/effects/shutters-wood-open-end.prefab` |
+| `assets/prefabs/building/wall.window.shutter/effects/shutters-wood-open-start.prefab` |
+| `assets/prefabs/building/wall.window.shutter/effects/shutter-wood-deploy.prefab` |
+| `assets/prefabs/clothes/diving.tank/effects/exhale_bubbles.prefab` |
+| `assets/prefabs/clothes/diving.tank/effects/scuba_exhale.prefab` |
+| `assets/prefabs/clothes/diving.tank/effects/scuba_inhale.prefab` |
+| `assets/prefabs/clothes/diving.tank/effects/tank_refill.prefab` |
+| `assets/prefabs/clothes/halloween.scarecrow/effects/pfx_scarecrow_critdeath_spine3.prefab` |
+| `assets/prefabs/clothes/halloween.scarecrow/effects/soul_release_effect.prefab` |
+| `assets/prefabs/clothes/suit.hazmat/diver/effects/breathingbubbles_headbone.prefab` |
+| `assets/prefabs/deployable/barricades/effects/barricade-concrete-deploy.prefab` |
+| `assets/prefabs/deployable/barricades/effects/barricade-metal-deploy.prefab` |
+| `assets/prefabs/deployable/barricades/effects/barricade-sandbags-deploy.prefab` |
+| `assets/prefabs/deployable/barricades/effects/barricade-stone-deploy.prefab` |
+| `assets/prefabs/deployable/barricades/effects/barricade-wood-deploy.prefab` |
+| `assets/prefabs/deployable/barricades/effects/damage.prefab` |
+| `assets/prefabs/deployable/bbq/effects/barbeque-deploy.prefab` |
+| `assets/prefabs/deployable/bear trap/effects/bear-trap-deploy.prefab` |
+| `assets/prefabs/deployable/bed/effects/bed-deploy.prefab` |
+| `assets/prefabs/deployable/beehive/effects/beehive-deploy.prefab` |
+| `assets/prefabs/deployable/campfire/effects/campfire-deploy.prefab` |
+| `assets/prefabs/deployable/ceiling light/effects/ceiling-light-deploy.prefab` |
+| `assets/prefabs/deployable/chair/effects/chair-deploy.prefab` |
+| `assets/prefabs/deployable/chair/ice_throne/effects/icethrone-deploy.prefab` |
+| `assets/prefabs/deployable/chickencoop/effects/chicken-coop-chicken-hatch.prefab` |
+| `assets/prefabs/deployable/chickencoop/effects/chicken-coop-deploy.prefab` |
+| `assets/prefabs/deployable/chinooklockedcrate/effects/landing.prefab` |
+| `assets/prefabs/deployable/computerstation/effects/computer-station-deploy.prefab` |
+| `assets/prefabs/deployable/cookingworkbench/effects/cookingfx.prefab` |
+| `assets/prefabs/deployable/cookingworkbench/effects/cookingtable.bbq.enabled.vfx.prefab` |
+| `assets/prefabs/deployable/cookingworkbench/effects/cookingtable.enabled.vfx.prefab` |
+| `assets/prefabs/deployable/cookingworkbench/effects/cooking-workbench-deploy.prefab` |
+| `assets/prefabs/deployable/drone/effects/drone-deploy.prefab` |
+| `assets/prefabs/deployable/drone/effects/drone-destroy.prefab` |
+| `assets/prefabs/deployable/drone/effects/drone-impact.prefab` |
+| `assets/prefabs/deployable/drone/effects/pfx battery fire.prefab` |
+| `assets/prefabs/deployable/dropbox/effects/dropbox-deploy.prefab` |
+| `assets/prefabs/deployable/dropbox/effects/submit_items.prefab` |
+| `assets/prefabs/deployable/elevator/effects/door-elevator-cage-close-end.prefab` |
+| `assets/prefabs/deployable/elevator/effects/door-elevator-cage-close-start.prefab` |
+| `assets/prefabs/deployable/elevator/effects/door-elevator-cage-open-end.prefab` |
+| `assets/prefabs/deployable/elevator/effects/door-elevator-cage-open-start.prefab` |
+| `assets/prefabs/deployable/elevator/effects/elevator-button-pressed.prefab` |
+| `assets/prefabs/deployable/elevator/effects/elevator-deploy.prefab` |
+| `assets/prefabs/deployable/floor spikes/effects/floor-spikes-deploy.prefab` |
+| `assets/prefabs/deployable/frankensteintable/effects/frankenstein-table-deploy.prefab` |
+| `assets/prefabs/deployable/frankensteintable/effects/mixingtable.enabled.vfx.prefab` |
+| `assets/prefabs/deployable/fridge/effects/fridge-deploy.prefab` |
+| `assets/prefabs/deployable/furnace.large/effects/enabled.prefab` |
+| `assets/prefabs/deployable/furnace/effects/furnace-deploy.prefab` |
+| `assets/prefabs/deployable/hopper/effects/hopper_bloodspurt.prefab` |
+| `assets/prefabs/deployable/hopper/effects/human corpse ingestion.prefab` |
+| `assets/prefabs/deployable/hopper/effects/other flesh ingestion.prefab` |
+| `assets/prefabs/deployable/lantern/effects/lantern-deploy.prefab` |
+| `assets/prefabs/deployable/large wood storage/effects/large-wood-box-deploy.prefab` |
+| `assets/prefabs/deployable/legacyfurnace/effects/small_furnace_particles.prefab` |
+| `assets/prefabs/deployable/liquidbarrel/effects/liquid-barrel-deploy.prefab` |
+| `assets/prefabs/deployable/liquidbarrel/effects/splashloop.prefab` |
+| `assets/prefabs/deployable/liquidbarrel/effects/taploop.prefab` |
+| `assets/prefabs/deployable/locker/effects/locker-deploy.prefab` |
+| `assets/prefabs/deployable/mailbox/effects/mailbox-deploy.prefab` |
+| `assets/prefabs/deployable/mixingtable/effects/mixingtable.enabled.vfx.prefab` |
+| `assets/prefabs/deployable/mixingtable/effects/mixing-table-deploy.prefab` |
+| `assets/prefabs/deployable/modular car lift/effects/modular-car-lift-addremovelock.prefab` |
+| `assets/prefabs/deployable/modular car lift/effects/modular-car-lift-changelockcode.prefab` |
+| `assets/prefabs/deployable/modular car lift/effects/modular-car-lift-deploy.prefab` |
+| `assets/prefabs/deployable/modular car lift/effects/modular-car-lift-destroy.prefab` |
+| `assets/prefabs/deployable/modular car lift/effects/modular-car-lift-repair.prefab` |
+| `assets/prefabs/deployable/oil refinery/effects/oil-refinery-deploy.prefab` |
+| `assets/prefabs/deployable/plant pots/effects/plant-pot-deploy.prefab` |
+| `assets/prefabs/deployable/planters/effects/planter-deploy.prefab` |
+| `assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_down.prefab` |
+| `assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_up.prefab` |
+| `assets/prefabs/deployable/playerioents/detectors/tincanalarm/effects/tin-can-alarm-deploy.prefab` |
+| `assets/prefabs/deployable/playerioents/electricfurnace/effects/electric-furnace-deploy.prefab` |
+| `assets/prefabs/deployable/playerioents/industrialadaptors/effects/event lights.prefab` |
+| `assets/prefabs/deployable/playerioents/industrialconveyor/effects/event lights.prefab` |
+| `assets/prefabs/deployable/playerioents/industrialconveyor/effects/industrial-conveyor-deploy.prefab` |
+| `assets/prefabs/deployable/playerioents/industrialcrafter/effects/industrial-crafter-deploy.prefab` |
+| `assets/prefabs/deployable/playerioents/waterpump/effects/waterpump-deploy.prefab` |
+| `assets/prefabs/deployable/ptz security camera/effects/ptz-camera-deploy.prefab` |
+| `assets/prefabs/deployable/quarry/effects/mining-quarry-deploy.prefab` |
+| `assets/prefabs/deployable/reactive target/effects/bullseye.prefab` |
+| `assets/prefabs/deployable/reactive target/effects/reactive-target-deploy.prefab` |
+| `assets/prefabs/deployable/reactive target/effects/snd_hit.prefab` |
+| `assets/prefabs/deployable/reactive target/effects/snd_knockdown.prefab` |
+| `assets/prefabs/deployable/reactive target/effects/snd_lower.prefab` |
+| `assets/prefabs/deployable/reactive target/effects/snd_reset.prefab` |
+| `assets/prefabs/deployable/reactive target/effects/tire_smokepuff.prefab` |
+| `assets/prefabs/deployable/recycler/effects/start.prefab` |
+| `assets/prefabs/deployable/recycler/effects/stop.prefab` |
+| `assets/prefabs/deployable/repair bench/effects/repair-bench-deploy.prefab` |
+| `assets/prefabs/deployable/repair bench/effects/skinchange_spraypaint.prefab` |
+| `assets/prefabs/deployable/research table/effects/research-fail.prefab` |
+| `assets/prefabs/deployable/research table/effects/research-start.prefab` |
+| `assets/prefabs/deployable/research table/effects/research-success.prefab` |
+| `assets/prefabs/deployable/research table/effects/research-table-deploy.prefab` |
+| `assets/prefabs/deployable/rug/effects/rug-deploy.prefab` |
+| `assets/prefabs/deployable/sculptures/icesculpture/effects/ice-sculpture-deploy.prefab` |
+| `assets/prefabs/deployable/sculptures/icesculpture/effects/ice-sculpture-destroyed.prefab` |
+| `assets/prefabs/deployable/sculptures/icesculpture/effects/lightcolors.prefab` |
+| `assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture fumes.prefab` |
+| `assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture impact.prefab` |
+| `assets/prefabs/deployable/search light/effects/search-light-deploy.prefab` |
+| `assets/prefabs/deployable/shelves/effects/shelves-deploy.prefab` |
+| `assets/prefabs/deployable/signs/effects/large-banner-deploy.prefab` |
+| `assets/prefabs/deployable/signs/effects/metal-sign-deploy.prefab` |
+| `assets/prefabs/deployable/signs/effects/picture-frame-deploy.prefab` |
+| `assets/prefabs/deployable/signs/effects/sign-post-deploy.prefab` |
+| `assets/prefabs/deployable/signs/effects/town-sign-deploy.prefab` |
+| `assets/prefabs/deployable/signs/effects/wood-sign-deploy.prefab` |
+| `assets/prefabs/deployable/single shot trap/effects/shotgun-trap-deploy.prefab` |
+| `assets/prefabs/deployable/sleeping bag/effects/sleeping-bag-deploy.prefab` |
+| `assets/prefabs/deployable/small stash/effects/small-stash-deploy.prefab` |
+| `assets/prefabs/deployable/sofa/effects/sofa-deploy.prefab` |
+| `assets/prefabs/deployable/sofa/effects/sofa-destroy.prefab` |
+| `assets/prefabs/deployable/spinner_wheel/effects/spinner-wheel-deploy.prefab` |
+| `assets/prefabs/deployable/survivalfishtrap/effects/fish_caught.prefab` |
+| `assets/prefabs/deployable/survivalfishtrap/effects/fish-trap-deploy.prefab` |
+| `assets/prefabs/deployable/table/effects/table-deploy.prefab` |
+| `assets/prefabs/deployable/tier 1 workbench/effects/experiment-start.prefab` |
+| `assets/prefabs/deployable/tier 1 workbench/effects/workbench-tier-1-deploy.prefab` |
+| `assets/prefabs/deployable/tier 2 workbench/effects/workbench-tier-2-deploy.prefab` |
+| `assets/prefabs/deployable/tier 3 workbench/effects/workbench-tier-3-deploy.prefab` |
+| `assets/prefabs/deployable/tool cupboard/effects/tool-cupboard-deploy.prefab` |
+| `assets/prefabs/deployable/tool cupboard/retro/effects/tool-cupboard-retro-deploy.prefab` |
+| `assets/prefabs/deployable/tuna can wall lamp/effects/tuna-can-lamp-deploy.prefab` |
+| `assets/prefabs/deployable/vendingmachine/effects/vending-machine-deploy.prefab` |
+| `assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab` |
+| `assets/prefabs/deployable/water catcher/effects/water-catcher-deploy.prefab` |
+| `assets/prefabs/deployable/water catcher/effects/water-catcher-large-deploy.prefab` |
 
 ---
 ### Navigation

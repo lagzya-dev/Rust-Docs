@@ -1,6 +1,19 @@
 # Effects (Page 4 of 5)
 | Prefab Name |
 |------------|
+| `assets/prefabs/weapons/stone pickaxe/effects/attack.prefab` |
+| `assets/prefabs/weapons/stone pickaxe/effects/deploy.prefab` |
+| `assets/prefabs/weapons/stone pickaxe/effects/strike.prefab` |
+| `assets/prefabs/weapons/stone pickaxe/effects/strike_screenshake.prefab` |
+| `assets/prefabs/weapons/stone pickaxe/effects/strike-muted.prefab` |
+| `assets/prefabs/weapons/stone pickaxe/effects/strike-soft.prefab` |
+| `assets/prefabs/weapons/stone pickaxe/effects/swing.prefab` |
+| `assets/prefabs/weapons/stone pickaxe/effects/throw.prefab` |
+| `assets/prefabs/weapons/stone spear/effects/2hand_deploy.prefab` |
+| `assets/prefabs/weapons/stone spear/effects/attack.prefab` |
+| `assets/prefabs/weapons/stone spear/effects/deploy.prefab` |
+| `assets/prefabs/weapons/stone spear/effects/holster.prefab` |
+| `assets/prefabs/weapons/stone spear/effects/pull_out.prefab` |
 | `assets/prefabs/weapons/stone spear/effects/strike_screenshake.prefab` |
 | `assets/prefabs/weapons/stone spear/effects/strike_stone.prefab` |
 | `assets/prefabs/weapons/stone spear/effects/strike_stone-muted.prefab` |
@@ -488,19 +501,6 @@
 | `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/concrete/jump-land-concrete.prefab` |
 | `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/dirt/jump-land-dirt.prefab` |
 | `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/forest/jump-land-forest.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/generic/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/grass/jump-land-grass.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/gravel/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/metal/jump-land-metal.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/metalore/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/rock/jump-land-rock.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/sand/jump-land-sand.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/snow/jump-land-snow.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/stones/jump-land-concrete.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/water/jump_land_water.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/barefoot/wood/jump-land-wood.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/cloth/jump-land-cloth.prefab` |
-| `assets/bundled/prefabs/fx/impacts/jump-start/boots/concrete/jump-land-concrete.prefab` |
 
 ---
 ### Navigation

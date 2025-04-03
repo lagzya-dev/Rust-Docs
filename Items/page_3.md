@@ -1,6 +1,13 @@
 # Items (Page 3 of 3)
 | Short Name | Item ID | Components |
 |------------|---------|------------|
+| `floor.triangle.grill` | 1983621560 | `ItemModEntity` |
+| `horse.shoes.advanced` | 1989785143 | `ItemModAnimalEquipment` |
+| `trike` | 1991794121 |  |
+| `burlap.trousers` | 1992974553 | `ItemModWearable` |
+| `weapon.mod.extendedmags` | 2005491391 | `ItemModEntity`<br>`ItemModSound` |
+| `xmasdoorwreath` | 2009734114 | `ItemModEntity` |
+| `tarp` | 2019042823 | `ItemModFishable` |
 | `radiationremovetea.advanced` | 2021351233 | `ItemModConsume`<br>`ItemModMenuOption` |
 | `electric.battery.rechargable.medium` | 2023888403 | `ItemModEntity` |
 | `scraptea.pure` | 2024467711 | `ItemModConsume`<br>`ItemModMenuOption` |
@@ -25,6 +32,7 @@
 | `goldmirror.standing` | 2120241887 | `ItemModEntity` |
 | `santabeard` | 2126889441 | `ItemModWearable` |
 | `clone.red.berry` | 2133269020 | `ItemModEntity` |
+| `gates.external.high.frontier` | 2137338174 | `ItemModEntity` |
 
 ---
 ### Navigation

@@ -153,6 +153,10 @@
 | `assets/content/effects/weather/sandstorm/pfx_sandstorm2.prefab` |
 | `assets/content/effects/wip/frosty_breath_fx.prefab` |
 | `assets/content/effects/wip/muzzle_smoke.prefab` |
+| `assets/content/effects/zones/zonegeneric.prefab` |
+| `assets/content/effects/zones/zonegenericsphere.prefab` |
+| `assets/content/effects/zones/zoneheat.prefab` |
+| `assets/content/effects/zones/zonewater.prefab` |
 | `assets/content/nature/treesprefabs/trees/effects/tree_bonus_effect.prefab` |
 | `assets/content/nature/treesprefabs/trees/effects/tree_fall.prefab` |
 | `assets/content/nature/treesprefabs/trees/effects/tree_fall_impact.prefab` |
@@ -497,10 +501,6 @@
 | `assets/prefabs/deployable/tool cupboard/effects/tool-cupboard-deploy.prefab` |
 | `assets/prefabs/deployable/tool cupboard/retro/effects/tool-cupboard-retro-deploy.prefab` |
 | `assets/prefabs/deployable/tuna can wall lamp/effects/tuna-can-lamp-deploy.prefab` |
-| `assets/prefabs/deployable/vendingmachine/effects/vending-machine-deploy.prefab` |
-| `assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab` |
-| `assets/prefabs/deployable/water catcher/effects/water-catcher-deploy.prefab` |
-| `assets/prefabs/deployable/water catcher/effects/water-catcher-large-deploy.prefab` |
 
 ---
 ### Navigation

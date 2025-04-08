@@ -1,6 +1,10 @@
 # Effects (Page 2 of 5)
 | Prefab Name |
 |------------|
+| `assets/prefabs/deployable/vendingmachine/effects/vending-machine-deploy.prefab` |
+| `assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab` |
+| `assets/prefabs/deployable/water catcher/effects/water-catcher-deploy.prefab` |
+| `assets/prefabs/deployable/water catcher/effects/water-catcher-large-deploy.prefab` |
 | `assets/prefabs/deployable/waterpurifier/effects/water-purifier-deploy.prefab` |
 | `assets/prefabs/deployable/woodenbox/effects/wooden-box-deploy.prefab` |
 | `assets/prefabs/effects/auroras/auroras_skychild.prefab` |
@@ -497,10 +501,6 @@
 | `assets/prefabs/weapons/flashbang/effects/deploy.prefab` |
 | `assets/prefabs/weapons/flashbang/effects/fx-flashbang-boom.prefab` |
 | `assets/prefabs/weapons/flashbang/effects/pullpin.prefab` |
-| `assets/prefabs/weapons/flashbang/effects/pullpinstart.prefab` |
-| `assets/prefabs/weapons/flashbang/effects/throw.prefab` |
-| `assets/prefabs/weapons/glockskin/effects/attack.prefab` |
-| `assets/prefabs/weapons/glockskin/effects/attack_muzzlebrake.prefab` |
 
 ---
 ### Navigation

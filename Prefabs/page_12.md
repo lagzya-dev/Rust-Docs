@@ -1,6 +1,7 @@
 # Prefabs (Page 12 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `pipe_a_300_c` | `assets/content/props/pipes/pipe_a/pipe_a_300_c.prefab` | 1758612647 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `hit-soft` | `assets/prefabs/weapons/cleaver big/effects/hit-soft.prefab` | 1758923140 | `UnityEngine.Transform`<br>`EffectAudioPerspectiveSwitcher` |
 | `walkway_a_300x300_crn_c` | `assets/content/structures/walkways/walkway_a_300x300_crn_c.prefab` | 1759904918 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `cineflag_l` | `assets/bundled/prefabs/modding/cinematic/flags/cineflag_l.prefab` | 1760473991 | `UnityEngine.Transform`<br>`CinematicEntity` |
@@ -500,7 +501,6 @@
 | `poster_a_framed` | `assets/content/props/office_furniture/posters/poster_a_framed.prefab` | 1911729860 | `UnityEngine.Transform` |
 | `berrybush.skin.1.seedling` | `assets/prefabs/plants/berrry/berrybush.skin.1.seedling.prefab` | 1912137575 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
 | `roof.wood.right.line` | `assets/prefabs/building core/roof/roof.wood.right.line.prefab` | 1912554900 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `tunnel_dwelling_e` | `assets/prefabs/misc/tunneldwelling/tunnel_dwelling_e.prefab` | 1913161776 | `UnityEngine.Transform`<br>`NPCDwelling` |
 
 ---
 ### Navigation

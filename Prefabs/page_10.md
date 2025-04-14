@@ -1,6 +1,7 @@
 # Prefabs (Page 10 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `portacabin_building_roof_300_600_half` | `assets/content/structures/portacabin_buildings/portacabin_building_roof_300_600_half.prefab` | 1428608283 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `ivy_strand_a` | `assets/content/nature/cave_roots_ivy/ivy_strand_a.prefab` | 1428645455 | `UnityEngine.Transform` |
 | `wall.window.bars.wood.item` | `assets/prefabs/building/wall.window.bars/wall.window.bars.wood.item.prefab` | 1428795929 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>`ItemModEntity` |
 | `industrial_doors_a_a_static_glass_red_arctic` | `assets/content/structures/industrial_doors_static/variants/industrial_doors_a_a_static_glass_red_arctic.prefab` | 1428826571 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
@@ -500,7 +501,6 @@
 | `wall.external.high.stone` | `assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.prefab` | 1585379529 | `UnityEngine.Transform`<br>`SimpleBuildingBlock`<br>`UnityEngine.AI.NavMeshObstacle` |
 | `socketdata_module_2100x600_3way_corridor` | `assets/content/structures/underwater_labs/socketdata/socketdata_module_2100x600_3way_corridor.prefab` | 1585930787 | `UnityEngine.Transform` |
 | `clientiopipe_cyan` | `assets/prefabs/tools/pipe/clientiopipe_cyan.prefab` | 1586716226 | `UnityEngine.Transform`<br>`ClientIOLine_Pipe` |
-| `attack_silenced` | `assets/prefabs/weapons/m249/effects/attack_silenced.prefab` | 1586863389 | `UnityEngine.Transform`<br>`EffectParentToWeaponBone`<br>`EffectAudioPerspectiveSwitcher` |
 
 ---
 ### Navigation

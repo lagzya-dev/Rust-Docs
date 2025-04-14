@@ -1,6 +1,7 @@
 # Prefabs (Page 20 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `milkcrate_table` | `assets/content/props/misc_dressing_props/milkcrate_table.prefab` | 3002087658 | `UnityEngine.Transform` |
 | `beachtowel.deployed` | `assets/prefabs/misc/summer_dlc/beach_towel/beachtowel.deployed.prefab` | 3003382652 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`GroundWatch`<br>`DestroyOnGroundMissing`<br>`SleepingBag`<br>... |
 | `kayak-paddle` | `assets/content/vehicles/boats/kayak/effects/kayak-paddle.prefab` | 3003397842 | `UnityEngine.Transform` |
 | `fat.animal.worldmodel` | `assets/prefabs/resource/animal fat/fat.animal.worldmodel.prefab` | 3003503554 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
@@ -500,7 +501,6 @@
 | `largebackpack_female.wearable` | `assets/prefabs/misc/largebackpack/largebackpack_female.wearable.prefab` | 3157545188 | `UnityEngine.Transform`<br>`Wearable`<br>`Facepunch.Skeleton` |
 | `foundation.stone.wall` | `assets/prefabs/building core/foundation/foundation.stone.wall.prefab` | 3157545414 | `UnityEngine.Transform` |
 | `cactus_2` | `assets/content/nature/plants/cactus/cactus_2.prefab` | 3157798548 | `UnityEngine.Transform` |
-| `divesite_f` | `assets/prefabs/misc/divesite/divesite_f.prefab` | 3158334014 | `UnityEngine.Transform`<br>`DiveSite`<br>`Spawnable` |
 
 ---
 ### Navigation

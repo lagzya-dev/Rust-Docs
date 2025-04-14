@@ -1,6 +1,7 @@
 # Prefabs (Page 13 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `tunnel_dwelling_e` | `assets/prefabs/misc/tunneldwelling/tunnel_dwelling_e.prefab` | 1913161776 | `UnityEngine.Transform`<br>`NPCDwelling` |
 | `grenade.f1.item` | `assets/prefabs/weapons/f1 grenade/grenade.f1.item.prefab` | 1913279082 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModEntity`<br>`ItemBlueprint` |
 | `toolssign` | `assets/content/props/signs/toolssign.prefab` | 1913330186 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `boulder_explosive` | `assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder_explosive.prefab` | 1913489021 | `UnityEngine.Transform`<br>`TimedExplosive`<br>`ServerProjectile` |
@@ -500,7 +501,6 @@
 | `horse.ragdoll` | `assets/content/vehicles/horse/horse.ragdoll.prefab` | 2075484473 | `UnityEngine.Transform`<br>`HorseRagdoll`<br>`Model`<br>`ArticulatedOccludee`<br>`UnityEngine.Rigidbody`<br>... |
 | `torpedostraight.item` | `assets/prefabs/ammo/torpedo/torpedostraight.item.prefab` | 2075790325 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemBlueprint`<br>`ItemModProjectile` |
 | `hatchet_stone.projectile` | `assets/prefabs/weapons/stone hatchet/hatchet_stone.projectile.prefab` | 2075930968 | `UnityEngine.Transform`<br>`Projectile` |
-| `1module_rear_seats` | `assets/content/vehicles/modularcar/module_entities/1module_rear_seats.prefab` | 2075972945 | `UnityEngine.Transform`<br>`VehicleModuleSeating` |
 
 ---
 ### Navigation

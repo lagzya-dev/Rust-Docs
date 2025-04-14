@@ -1,6 +1,7 @@
 # Prefabs (Page 11 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `attack_silenced` | `assets/prefabs/weapons/m249/effects/attack_silenced.prefab` | 1586863389 | `UnityEngine.Transform`<br>`EffectParentToWeaponBone`<br>`EffectAudioPerspectiveSwitcher` |
 | `clientiopipe_grey` | `assets/prefabs/tools/pipe/clientiopipe_grey.prefab` | 1586921307 | `UnityEngine.Transform`<br>`ClientIOLine_Pipe` |
 | `ground_junk_straight_b` | `assets/content/props/small_junk/ground_junk_straight_b.prefab` | 1586975246 | `UnityEngine.Transform` |
 | `eject_beltlink` | `assets/prefabs/weapons/m249/effects/eject_beltlink.prefab` | 1586999351 | `UnityEngine.Transform`<br>`EffectParentToWeaponBone` |
@@ -500,7 +501,6 @@
 | `dead_log_a` | `assets/bundled/prefabs/autospawn/resource/logs_snow/dead_log_a.prefab` | 1757500473 | `UnityEngine.Transform`<br>`Spawnable`<br>`ResourceEntity`<br>`ResourceDispenser`<br>`UnityEngine.MeshCollider` |
 | `rocket.sam.worldmodel` | `assets/prefabs/npc/sam_site_turret/rocket.sam.worldmodel.prefab` | 1757655157 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.CapsuleCollider`<br>`ColliderInfo` |
 | `tap` | `assets/prefabs/weapons/salvaged_axe/effects/tap.prefab` | 1757727084 | `UnityEngine.Transform`<br>`EffectAudioPerspectiveSwitcher` |
-| `pipe_a_300_c` | `assets/content/props/pipes/pipe_a/pipe_a_300_c.prefab` | 1758612647 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 
 ---
 ### Navigation

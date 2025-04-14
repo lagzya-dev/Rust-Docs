@@ -1,6 +1,7 @@
 # Prefabs (Page 16 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `barrelcostume.item` | `assets/prefabs/clothes/fun/barrel/barrelcostume.item.prefab` | 2386161639 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModWearable` |
 | `berrybush.skin.0.seed` | `assets/prefabs/plants/berrry/berrybush.skin.0.seed.prefab` | 2386244097 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
 | `roof.gingerbread.full` | `assets/prefabs/building core/roof/roof.gingerbread.full.prefab` | 2386587148 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `cave_tjunction` | `assets/bundled/prefabs/caves/cave_tjunction.prefab` | 2387172656 | `UnityEngine.Transform` |
@@ -500,7 +501,6 @@
 | `fuel_barrel_black` | `assets/content/props/barrels/fuel_barrel_black.prefab` | 2536245000 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `glass_type_houses_nontransparent` | `assets/bundled/prefabs/modding/glass/glass_type_houses_nontransparent.prefab` | 2537640219 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
 | `supermarket_lighting` | `assets/content/props/light_fixtures/v2/radtown work prefabs/supermarket_lighting.prefab` | 2538176834 | `UnityEngine.Transform` |
-| `cny_spear.worldmodel` | `assets/prefabs/weapons/cnyspear/cny_spear.worldmodel.prefab` | 2538884823 | `UnityEngine.Transform`<br>`ColliderInfo`<br>`UnityEngine.BoxCollider`<br>`WorldModel`<br>`WorldModelRackMountConfig` |
 
 ---
 ### Navigation

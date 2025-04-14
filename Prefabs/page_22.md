@@ -1,6 +1,7 @@
 # Prefabs (Page 22 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `cube_tiled_plaster_08` | `assets/bundled/prefabs/modding/cubes/tiled/cube_tiled_plaster_08.prefab` | 3308326350 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
 | `jump_land_water` | `assets/bundled/prefabs/fx/impacts/jump-land/hide/water/jump_land_water.prefab` | 3308552938 | `UnityEngine.Transform` |
 | `wooden-box-deploy` | `assets/prefabs/deployable/woodenbox/effects/wooden-box-deploy.prefab` | 3309562397 | `UnityEngine.Transform` |
 | `brick_pile_3x3` | `assets/content/props/rubble_piles/brick_pile_3x3.prefab` | 3309722054 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
@@ -500,7 +501,6 @@
 | `creeping_plant_wall_600_snow` | `assets/content/nature/overgrowth/creeping_plant_wall_600_snow.prefab` | 3469043661 | `UnityEngine.Transform` |
 | `hammer_salvaged.worldmodel` | `assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.worldmodel.prefab` | 3469410380 | `UnityEngine.Transform`<br>`WorldModel`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo`<br>`WorldModelRackMountConfig` |
 | `cube_tiled_woodpanels_red_01` | `assets/bundled/prefabs/modding/cubes/tiled/cube_tiled_woodpanels_red_01.prefab` | 3469963613 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
-| `roof.brick.right.line` | `assets/prefabs/building core/roof/roof.brick.right.line.prefab` | 3470025241 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 
 ---
 ### Navigation

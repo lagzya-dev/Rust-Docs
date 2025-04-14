@@ -1,6 +1,7 @@
 # Prefabs (Page 21 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `divesite_f` | `assets/prefabs/misc/divesite/divesite_f.prefab` | 3158334014 | `UnityEngine.Transform`<br>`DiveSite`<br>`Spawnable` |
 | `strike_screenshake` | `assets/prefabs/weapons/diverhatchet/effects/strike_screenshake.prefab` | 3158464630 | `UnityEngine.Transform`<br>`ScreenBounce`<br>`ScreenFov`<br>`ScreenRotate` |
 | `muzzlebrake.entity` | `assets/prefabs/weapon mods/muzzlebrake/muzzlebrake.entity.prefab` | 3158761202 | `UnityEngine.Transform`<br>`ProjectileWeaponMod` |
 | `bear-footstep-concrete` | `assets/rust.ai/agents/bear/footsteps/bear-footstep-concrete.prefab` | 3158938134 | `UnityEngine.Transform`<br>`MusicChangeIntensity` |
@@ -500,7 +501,6 @@
 | `train_wagon_b` | `assets/content/structures/train_wagons/train_wagon_b.prefab` | 3308035871 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `rowboat_storage` | `assets/content/vehicles/boats/rowboat/subents/rowboat_storage.prefab` | 3308040458 | `UnityEngine.Transform`<br>`StorageContainer`<br>`Model`<br>`UnityEngine.BoxCollider` |
 | `ultra-tiny-sound` | `assets/content/sound/templates/ultra-tiny-sound.prefab` | 3308064416 | `UnityEngine.Transform`<br>`OnePoleLowpassFilter`<br>`SoundOcclusion` |
-| `cube_tiled_plaster_08` | `assets/bundled/prefabs/modding/cubes/tiled/cube_tiled_plaster_08.prefab` | 3308326350 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
 
 ---
 ### Navigation

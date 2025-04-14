@@ -19514,6 +19514,16 @@
     ]
   },
   {
+    "ShortName": "event_easter",
+    "FullName": "assets/bundled/prefabs/world/event_easter.prefab",
+    "PrefabId": 1147615402,
+    "Components": [
+      "UnityEngine.Transform",
+      "EventSchedule",
+      "TriggeredEventPrefab"
+    ]
+  },
+  {
     "ShortName": "event_f15e",
     "FullName": "assets/bundled/prefabs/world/event_f15e.prefab",
     "PrefabId": 1186542917,
@@ -93366,16 +93376,6 @@
     "Components": [
       "UnityEngine.Transform",
       "EggHuntEvent"
-    ]
-  },
-  {
-    "ShortName": "event_easter",
-    "FullName": "assets/prefabs/misc/easter/event_easter.prefab",
-    "PrefabId": 3564135747,
-    "Components": [
-      "UnityEngine.Transform",
-      "EventSchedule",
-      "TriggeredEventPrefab"
     ]
   },
   {

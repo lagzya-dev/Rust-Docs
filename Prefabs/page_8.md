@@ -74,6 +74,7 @@
 | `swamp_a_scene` | `assets/bundled/prefabs/remapped/monument/swamp/swamp_a_scene.prefab` | 1146314153 | `UnityEngine.Transform`<br>`ScenePrefab` |
 | `sculpture.ice.item` | `assets/prefabs/deployable/sculptures/icesculpture/sculpture.ice.item.prefab` | 1146409935 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModEntity`<br>`ItemModDeployable`<br>`ItemBlueprint`<br>... |
 | `brown_trout` | `assets/prefabs/npc/fish/brown_trout/brown_trout.prefab` | 1146777232 | `UnityEngine.Transform` |
+| `event_easter` | `assets/bundled/prefabs/world/event_easter.prefab` | 1147615402 | `UnityEngine.Transform`<br>`EventSchedule`<br>`TriggeredEventPrefab` |
 | `3p_reload_cylinder` | `assets/prefabs/weapons/high caliber revolver/effects/3p_reload_cylinder.prefab` | 1147665690 | `UnityEngine.Transform`<br>`EffectParentToWeaponBone`<br>`ParticleSystemPostIK` |
 | `waterjug.item` | `assets/prefabs/food/water jug/waterjug.item.prefab` | 1148024555 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModContainerRads`<br>`ItemModConsumeContents`<br>`ItemModMenuOption`<br>... |
 | `bullet_impact_rock` | `assets/bundled/prefabs/fx/impacts/bullet/stones/bullet_impact_rock.prefab` | 1148035123 | `UnityEngine.Transform`<br>`EffectScaleWithCameraDistance` |
@@ -500,7 +501,6 @@
 | `ignite` | `assets/prefabs/tools/smoke grenade/effects/ignite.prefab` | 1277383634 | `UnityEngine.Transform` |
 | `sock_2` | `assets/prefabs/misc/xmas/christmas_props/assets/prefabs/sock_2.prefab` | 1277549565 | `UnityEngine.Transform` |
 | `wall.toptier` | `assets/prefabs/building core/wall/wall.toptier.prefab` | 1277584356 | `UnityEngine.Transform`<br>`ConstructionSkin` |
-| `outbuilding_1st_27x9-green variant` | `assets/content/structures/residential_buildings/outbuilding_1st_27x9-green variant.prefab` | 1277907835 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 
 ---
 ### Navigation

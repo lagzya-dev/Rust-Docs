@@ -1,6 +1,7 @@
 # Prefabs (Page 23 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `roof.brick.right.line` | `assets/prefabs/building core/roof/roof.brick.right.line.prefab` | 3470025241 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `ghostsheet.test` | `assets/prefabs/clothes/halloween.ghostsheet/ghostsheet.test.prefab` | 3470856742 | `UnityEngine.Transform`<br>`Wearable`<br>`Facepunch.Skeleton` |
 | `ui.map.monumentmarker` | `assets/content/ui/gameui/ui.map.monumentmarker.prefab` | 3471049853 | `UnityEngine.RectTransform`<br>`MonumentMarker` |
 | `dashboardlight` | `assets/content/vehicles/modularcar/models/components/dashboardlight.prefab` | 3471073190 | `UnityEngine.Transform` |
@@ -307,7 +308,6 @@
 | `swing` | `assets/prefabs/tools/lumberjack_tools/effects_metal/effects/swing.prefab` | 3562758160 | `UnityEngine.Transform`<br>`ScreenBounce`<br>`ScreenFov`<br>`ScreenRotate`<br>`EffectAudioPerspectiveSwitcher` |
 | `ue_lake_b` | `assets/bundled/prefabs/autospawn/unique_environment/lake/ue_lake_b.prefab` | 3563180799 | `UnityEngine.Transform`<br>`MonumentInfo` |
 | `binbag_d` | `assets/content/props/trash_bag_piles/binbag_d.prefab` | 3564081721 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
-| `event_easter` | `assets/prefabs/misc/easter/event_easter.prefab` | 3564135747 | `UnityEngine.Transform`<br>`EventSchedule`<br>`TriggeredEventPrefab` |
 | `swimwear_05_scribble` | `assets/prefabs/misc/summer_dlc/swimwear_05/swimwear_05_scribble.prefab` | 3564356952 | `UnityEngine.Transform`<br>`PlayerModelHairCap`<br>`Wearable` |
 | `ashtrayred_c` | `assets/content/props/ash trays/ashtrayred_c.prefab` | 3564371847 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
 | `trail_path_b` | `assets/content/structures/launch_site/trail_path_b.prefab` | 3564851425 | `UnityEngine.Transform` |

@@ -1,6 +1,7 @@
 # Prefabs (Page 9 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `outbuilding_1st_27x9-green variant` | `assets/content/structures/residential_buildings/outbuilding_1st_27x9-green variant.prefab` | 1277907835 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `frontier_hatchet.item` | `assets/prefabs/weapons/frontier hatchet/frontier_hatchet.item.prefab` | 1277945811 | `UnityEngine.Transform`<br>`ItemDefinition`<br>`ItemModEntity`<br>`ItemBlueprint`<br>`ItemModProjectile` |
 | `reload_single_start` | `assets/prefabs/misc/xmas/snowballgun/effects/reload_single_start.prefab` | 1278052795 | `UnityEngine.Transform`<br>`EffectAudioPerspectiveSwitcher` |
 | `santa_beard_male_dark03` | `assets/prefabs/misc/xmas/wearable/santabeard/prefabs/santa_beard_male_dark03.prefab` | 1278251553 | `UnityEngine.Transform`<br>`Wearable`<br>`WearableHairCap` |
@@ -500,7 +501,6 @@
 | `elite_crate_spawner` | `assets/bundled/prefabs/modding/lootables/elite_crate_spawner.prefab` | 1428457674 | `UnityEngine.Transform`<br>`SpawnGroup` |
 | `military_tunnel_outdoor_lighting` | `assets/content/props/light_fixtures/v2/radtown work prefabs/military_tunnel_outdoor_lighting.prefab` | 1428470787 | `UnityEngine.Transform`<br>`LightGroupAtTime` |
 | `ui.dialog.ingamecinematicplayback` | `assets/content/ui/gameui/ui.dialog.ingamecinematicplayback.prefab` | 1428487948 | `UnityEngine.RectTransform`<br>`CinematicDialog`<br>`NeedsKeyboard` |
-| `portacabin_building_roof_300_600_half` | `assets/content/structures/portacabin_buildings/portacabin_building_roof_300_600_half.prefab` | 1428608283 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 
 ---
 ### Navigation

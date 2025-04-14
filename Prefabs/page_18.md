@@ -1,6 +1,7 @@
 # Prefabs (Page 18 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `recycler` | `assets/prefabs/misc/recycler/recycler.prefab` | 2688843000 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 | `skin_legs.female` | `assets/prefabs/clothes/skin/underwear/skin_legs.female.prefab` | 2688960216 | `UnityEngine.Transform`<br>`Wearable`<br>`PlayerModelHairCap` |
 | `footstep-forest` | `assets/bundled/prefabs/fx/impacts/footstep/rubberboots/forest/footstep-forest.prefab` | 2689985771 | `UnityEngine.Transform` |
 | `strike_screenshake` | `assets/prefabs/weapons/wooden spear/effects/strike_screenshake.prefab` | 2690071396 | `UnityEngine.Transform`<br>`ScreenBounce`<br>`ScreenFov`<br>`ScreenRotate` |
@@ -500,7 +501,6 @@
 | `arctic-base-garage-door-open-end` | `assets/content/structures/arctic_base_modules/sound/arctic-base-garage-door-open-end.prefab` | 2845940194 | `UnityEngine.Transform` |
 | `ice_roof_05` | `assets/prefabs/misc/xmas/staticdecor/ice_roof_05.prefab` | 2846318563 | `UnityEngine.Transform` |
 | `bathtub.planter.deployed` | `assets/prefabs/misc/decor_dlc/bath tub planter/bathtub.planter.deployed.prefab` | 2846319393 | `UnityEngine.Transform`<br>`PlanterBox`<br>`Model`<br>`GroundWatch`<br>`DestroyOnGroundMissing` |
-| `shotgun_pump.viewmodel` | `assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.viewmodel.prefab` | 2846515151 | `UnityEngine.Transform`<br>`BaseViewModel`<br>`IronSights`<br>`ViewmodelSway`<br>`ViewmodelLower`<br>... |
 
 ---
 ### Navigation

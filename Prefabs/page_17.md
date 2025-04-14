@@ -1,6 +1,7 @@
 # Prefabs (Page 17 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `cny_spear.worldmodel` | `assets/prefabs/weapons/cnyspear/cny_spear.worldmodel.prefab` | 2538884823 | `UnityEngine.Transform`<br>`ColliderInfo`<br>`UnityEngine.BoxCollider`<br>`WorldModel`<br>`WorldModelRackMountConfig` |
 | `horse-footstep-concrete` | `assets/content/vehicles/horse/effects/footsteps/horse-footstep-concrete.prefab` | 2539205743 | `UnityEngine.Transform` |
 | `footstep-metal` | `assets/bundled/prefabs/fx/impacts/footstep/burlap/metal/footstep-metal.prefab` | 2539833954 | `UnityEngine.Transform` |
 | `sunflower_skin_3_maturing` | `assets/prefabs/plants/sunflower/sunflower_skin_3_maturing.prefab` | 2541231176 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider`<br>`ColliderInfo` |
@@ -500,7 +501,6 @@
 | `door.hinged.industrial_a_e` | `assets/bundled/prefabs/static/door.hinged.industrial_a_e.prefab` | 2688076533 | `UnityEngine.Transform`<br>`Door`<br>`Model` |
 | `rowboat_shop_static` | `assets/content/props/boat town props/rowboat_shop_static.prefab` | 2688601438 | `UnityEngine.Transform` |
 | `ui.infopanel.blueprint` | `assets/content/ui/gameui/ui.infopanel.blueprint.prefab` | 2688602940 | `UnityEngine.RectTransform`<br>`BlueprintInformationPanel` |
-| `recycler` | `assets/prefabs/misc/recycler/recycler.prefab` | 2688843000 | `UnityEngine.Transform`<br>`UnityEngine.MeshCollider` |
 
 ---
 ### Navigation

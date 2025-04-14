@@ -1,6 +1,7 @@
 # Prefabs (Page 19 of 28)
 | Short Name | Prefab Name | Prefab ID | Components |
 |------------|-------------|-----------|------------|
+| `shotgun_pump.viewmodel` | `assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.viewmodel.prefab` | 2846515151 | `UnityEngine.Transform`<br>`BaseViewModel`<br>`IronSights`<br>`ViewmodelSway`<br>`ViewmodelLower`<br>... |
 | `hatch_tube_600` | `assets/content/structures/underwater_labs/conditionals/hatch_tube_600.prefab` | 2846615126 | `UnityEngine.Transform` |
 | `covered_bradley` | `assets/content/props/covered_props/covered_bradley.prefab` | 2846797405 | `UnityEngine.Transform` |
 | `ui.infopanel.meleeweapon` | `assets/content/ui/gameui/ui.infopanel.meleeweapon.prefab` | 2847608975 | `UnityEngine.RectTransform`<br>`MeleeWeaponInformationPanel` |
@@ -500,7 +501,6 @@
 | `cube_tiled_dev_07` | `assets/bundled/prefabs/modding/cubes/tiled/cube_tiled_dev_07.prefab` | 3000377299 | `UnityEngine.Transform`<br>`UnityEngine.BoxCollider` |
 | `gameui.hud.fullwhite` | `assets/content/ui/gameui/gameui.hud.fullwhite.prefab` | 3000639651 | `UnityEngine.RectTransform`<br>`UIBlackoutOverlay` |
 | `snow_mound_a` | `assets/bundled/prefabs/autospawn/clutter/v3_snow_mounds/snow_mound_a.prefab` | 3000817206 | `UnityEngine.Transform` |
-| `milkcrate_table` | `assets/content/props/misc_dressing_props/milkcrate_table.prefab` | 3002087658 | `UnityEngine.Transform` |
 
 ---
 ### Navigation
